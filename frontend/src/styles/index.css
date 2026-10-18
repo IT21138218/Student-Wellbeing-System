@@ -1,0 +1,168 @@
+@import "tailwindcss";
+
+html, body {
+  overflow-x: hidden;
+  max-width: 100vw;
+}
+
+/* Shared "dark themed <select>" option fix — background-color doesn't
+   inherit from a <select> into its native popup, so any inline-styled
+   select that sets a dark background needs this class or its options
+   render on the browser's default white popup with light text forced on
+   it (invisible). Feature-specific stylesheets add their own scoped
+   `option` rule for the same reason; this is the one for components with
+   no dedicated CSS file. */
+.themed-select option { background: var(--bg-panel); color: var(--text); }
+
+/* App-wide keyboard focus ring. Most controls set `outline: none` for a
+   cleaner mouse-click look but never restored a keyboard indicator, so
+   Tab-only navigation (sidebar, dropdowns, forms, quick actions) was
+   invisible — a real accessibility/UX gap, not just cosmetic. :focus-visible
+   only fires for keyboard/programmatic focus, so mouse clicks stay clean. */
+button:focus-visible,
+a:focus-visible,
+input:focus-visible,
+select:focus-visible,
+textarea:focus-visible,
+[tabindex]:focus-visible {
+  outline: 2px solid var(--accent, #4d8df0);
+  outline-offset: 2px;
+  border-radius: 4px;
+}
+
+/* ═══════════════════════════════════════════════════════════════
+   DESIGN TOKENS — single source of truth for the whole app.
+   Mirrored for inline styles in src/constants/theme.js — change both.
+
+   DARK THEME — the app's one look. Restored here after a same-session
+   detour into a permanent light theme; keeping the type scale and
+   accessibility fixes from that pass (they're independent of color),
+   reverting every actual color value back to dark.
+   ═══════════════════════════════════════════════════════════════ */
+:root {
+  /* Surfaces */
+  --bg-deep:    #020617;   /* page background */
+  --bg-panel:   #0f172a;   /* sidebar, panels */
+  --surface:    rgba(255,255,255,0.03);
+  --surface-2:  rgba(255,255,255,0.05);
+  --border:     rgba(255,255,255,0.08);
+  --border-2:   rgba(255,255,255,0.14);
+
+  /* Text — three levels, never more */
+  --text:       #e6e8ee;   /* primary */
+  --text-2:     #a3adbf;   /* secondary, labels */
+  --text-3:     #7d8899;   /* hints, captions */
+
+  /* Accent */
+  --accent:        #4d8df0;
+  --accent-2:      #7fb0f5;   /* lighter: links, badge text, hover on dark text */
+  --accent-strong: #3a76d6;   /* darker: hover on FILLED buttons — without this a
+                                 filled button's hover equals its base and dies */
+  --accent-dim:    rgba(77,141,240,0.12);
+
+  /* Semantic — also the LOW / MEDIUM / HIGH risk triple */
+  --ok:         #46a97d;
+  --warn:       #d69a4c;
+  --bad:        #e0706a;
+  --ok-dim:     rgba(70,169,125,0.12);
+  --warn-dim:   rgba(214,154,76,0.12);
+  --bad-dim:    rgba(224,112,106,0.12);
+
+  /* One-off decorative accents — NOT part of the Settings -> Appearance
+     token set (ThemeSettingsProvider doesn't rewrite these), so they stay
+     fixed across every theme rather than clashing with a custom accent. */
+  --violet:           #8c7aa8;
+  --violet-dim:        rgba(140,122,168,0.12);
+  --note-instructor:  #6366f1;
+  --note-system:      #2dd4bf;
+  --gold:             #c9834a;
+  --gold-dim:          rgba(201,131,74,0.12);
+  --avatar-bg:        #35506a;
+
+  /* Glass card/sidebar backdrop — see constants/themePresets.js's
+     panelGlass/showPhoto: dark-leaning themes show BackgroundScene's photo
+     behind this; light-leaning ones hide the photo and use a near-opaque
+     panelGlass instead, so this default only matters before Settings ->
+     Appearance's JS applies the active theme's own value. */
+  --panel-glass: rgba(35, 37, 41, 0.45);
+
+  /* Type scale — kept from the accessibility pass (readability, not a
+     color-scheme concern): floor of 13px, body copy at 15-16px. */
+  --fs-xs:   13px;
+  --fs-sm:   14px;
+  --fs-base: 15px;
+  --fs-md:   16px;
+  --fs-lg:   19px;
+  --fs-xl:   23px;
+  --fs-2xl:  31px;
+
+  /* Shape */
+  --r-control:  8px;
+  --r-card:     12px;
+}
+
+@theme {
+  --color-primary: #4d8df0;
+  --color-background-light: #f8fafc;
+  --color-background-dark: #020617;
+
+  --font-display: "Cinzel", serif;
+  --font-serif: "Playfair Display", serif;
+  --font-sans: "Inter", sans-serif;
+
+  --radius-xl: 1rem;
+  --radius-2xl: 1.5rem;
+  --radius-full: 9999px;
+}
+
+/* Page canvas. Set explicitly rather than inherited so no view can fall
+   back to the browser default and strand light text on a light surface. */
+html, body {
+  background: var(--bg-deep);
+  color: var(--text);
+}
+
+@layer utilities {
+  .glass-panel {
+    background: rgba(255, 255, 255, 0.03);
+    backdrop-filter: blur(12px);
+    -webkit-backdrop-filter: blur(12px);
+    border: 1px solid rgba(255, 255, 255, 0.1);
+  }
+  .hero-text-mask {
+    background: linear-gradient(to bottom, var(--text) 30%, var(--accent) 100%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+  }
+  .neon-glow {
+    box-shadow: 0 0 20px rgba(59, 130, 246, 0.4);
+  }
+  .bg-gradient-overlay {
+    background: radial-gradient(circle at center, rgba(15, 23, 42, 0.2) 0%, rgba(2, 6, 23, 0.95) 100%);
+  }
+}
+
+.nav-link {
+  transition: all 0.3s ease;
+  position: relative;
+}
+.nav-link::after {
+  content: '';
+  position: absolute;
+  bottom: -4px;
+  left: 0;
+  width: 0;
+  height: 1px;
+  background: var(--accent);
+  transition: width 0.3s ease;
+}
+.nav-link:hover::after {
+  width: 100%;
+}
+.fade-in {
+  animation: fadeIn 0.4s ease-out;
+}
+@keyframes fadeIn {
+  from { opacity: 0; transform: translateY(10px); }
+  to { opacity: 1; transform: translateY(0); }
+}
