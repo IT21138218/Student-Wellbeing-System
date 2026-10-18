@@ -26,7 +26,11 @@ from ml.wellbeing_forecasting.features import ALL_FEATURES, BASE_FEATURES, engin
 ARTIFACT_DIR = Path(__file__).parent / "artifacts"
 MODEL_PATH = ARTIFACT_DIR / "real_model.pkl"
 SCALER_PATH = ARTIFACT_DIR / "real_scaler.pkl"
-DATASET_PATH = Path(__file__).parents[2] / ".." / "Member 1" / "student_wellbeing_dataset.csv"
+# Shipped inside backend/ so a deploy of just this folder still has the data
+# (e.g. Render). Falls back to the research copy for a full local checkout.
+_BUNDLED = Path(__file__).parents[2] / "data" / "student_wellbeing_dataset.csv"
+_RESEARCH = Path(__file__).parents[2] / ".." / "Member 1" / "student_wellbeing_dataset.csv"
+DATASET_PATH = _BUNDLED if _BUNDLED.exists() else _RESEARCH
 
 
 class ForecastModelNotTrained(RuntimeError):

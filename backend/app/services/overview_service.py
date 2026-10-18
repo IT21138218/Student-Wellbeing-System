@@ -27,7 +27,11 @@ from app.models.social import SocialRecord
 from app.models.quiz import QuizAttempt
 from app.models.user import User
 
-DATASET_PATH = Path(__file__).parents[2] / ".." / "Member 1" / "student_wellbeing_dataset.csv"
+# Shipped inside backend/ so a deploy of just this folder still has the data
+# (e.g. Render). Falls back to the research copy for a full local checkout.
+_BUNDLED = Path(__file__).parents[2] / "data" / "student_wellbeing_dataset.csv"
+_RESEARCH = Path(__file__).parents[2] / ".." / "Member 1" / "student_wellbeing_dataset.csv"
+DATASET_PATH = _BUNDLED if _BUNDLED.exists() else _RESEARCH
 
 
 class _RoleOnly(BaseModel):
