@@ -1,0 +1,40 @@
+/* Shared responsive rules for CopingRecommendation.jsx and SocialIsolation.jsx,
+   which build their layout with inline style objects. Grid column counts
+   live here (not inline) so media queries can actually override them —
+   an inline style always beats a stylesheet rule of any specificity. */
+
+/* Dropdown option list — background-color doesn't inherit from the <select>
+   into the native popup, so without this Chromium/Firefox fall back to a
+   white popup with the select's (light) text color forced on it, i.e.
+   invisible text. Every themed <select> in this app needs its own explicit
+   `option` rule for the same reason (see Login.jsx's role picker). */
+.cs-select option { background: var(--bg-panel); color: var(--text); }
+
+.mt-grid-3 { display: grid; grid-template-columns: repeat(3, 1fr); }
+.mt-grid-2 { display: grid; grid-template-columns: repeat(2, 1fr); }
+.mt-grid-14-1 { display: grid; grid-template-columns: 1.4fr 1fr; }
+
+.mt-nav-tabs { flex-wrap: wrap; }
+.mt-dist-label { width: 140px; flex-shrink: 0; }
+
+@media (max-width: 820px) {
+  .mt-grid-14-1 { grid-template-columns: 1fr; }
+}
+
+@media (max-width: 700px) {
+  .mt-grid-3 { grid-template-columns: 1fr 1fr; }
+}
+
+@media (max-width: 640px) {
+  .mt-root { padding: 0.5rem !important; }
+  .mt-card { padding: 1.1rem !important; }
+  .mt-nav-tab { font-size: 13px !important; padding: 10px 8px !important; }
+  .mt-nav-tab-label { display: none; }
+}
+
+@media (max-width: 520px) {
+  .mt-grid-3, .mt-grid-2 { grid-template-columns: 1fr; }
+  .mt-dist-label { width: 100%; }
+  .mt-dist-row { flex-wrap: wrap; }
+  .mt-peer-row { flex-wrap: wrap; }
+}
