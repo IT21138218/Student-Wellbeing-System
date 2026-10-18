@@ -4,6 +4,8 @@ An AI-assisted student wellbeing platform: risk classification, adaptive
 quizzes, coping recommendations, social isolation detection, and
 wellbeing forecasting, backed by trained ML models behind a real API.
 
+**Research project website:** https://it21138218.github.io/student-wellbeing-ai/
+
 ## Architecture
 
 ```
