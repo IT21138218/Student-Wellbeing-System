@@ -1,0 +1,152 @@
+/* AdaptiveQuiz — mirrors WellbeingIndicator dark theme */
+.aq-root { width:100%; font-family:'Plus Jakarta Sans','Inter',sans-serif; color:var(--text); }
+
+.aq-header { margin-bottom:1.5rem; }
+.aq-header h2 { font-size:1.5rem; font-weight:700; color:var(--text); letter-spacing:-0.01em; }
+.aq-header p  { font-size:16px; color:var(--text-2); margin-top:4px; }
+
+/* TABS */
+.aq-tabs { display:flex; gap:0; margin-bottom:1.5rem; border:1px solid var(--border); border-radius:12px; overflow:hidden; background:var(--bg-panel); }
+.aq-tab  { flex:1; display:flex; align-items:center; gap:8px; padding:13px 16px; font-size:15px; font-weight:500; color:var(--text-2); cursor:pointer; border:none; background:transparent; font-family:inherit; transition:all .2s; border-right:1px solid var(--surface-2); }
+.aq-tab:last-child { border-right:none; }
+.aq-tab:hover:not(.aq-tab-active):not(.aq-tab-done) { background:var(--surface); color:var(--text-2); }
+.aq-tab.aq-tab-active { background:var(--accent-dim); color:var(--accent-2); }
+.aq-tab.aq-tab-done   { background:var(--ok-dim);  color:var(--ok); }
+.aq-tab-num { width:20px; height:20px; border-radius:50%; display:flex; align-items:center; justify-content:center; font-size:13px; font-weight:700; flex-shrink:0; background:var(--border); color:var(--text-2); }
+.aq-tab-active .aq-tab-num { background:var(--accent); color:white; }
+.aq-tab-done   .aq-tab-num { background:var(--ok); color:white; }
+
+/* CARDS */
+.aq-card { background:var(--bg-panel); border:1px solid var(--border); border-radius:14px; padding:1.35rem 1.5rem; margin-bottom:1rem; }
+.aq-card-title { font-size:15px; font-weight:600; color:var(--text-2); margin-bottom:1.1rem; display:flex; align-items:center; gap:8px; text-transform:uppercase; letter-spacing:.08em; }
+.aq-card-icon  { font-size:19px; }
+
+/* SECTION LABEL */
+.aq-section-label { font-size:13px; font-weight:700; text-transform:uppercase; letter-spacing:.1em; color:var(--accent); margin-bottom:12px; padding-bottom:6px; border-bottom:1px solid var(--accent-dim); margin-top:1.2rem; }
+.aq-section-label:first-child { margin-top:0; }
+
+/* GRIDS */
+.aq-grid-2 { display:grid; grid-template-columns:1fr 1fr; gap:14px; }
+.aq-grid-3 { display:grid; grid-template-columns:1fr 1fr 1fr; gap:12px; }
+@media(max-width:680px){ .aq-grid-2,.aq-grid-3 { grid-template-columns:1fr; } }
+
+/* FIELDS */
+.aq-field { display:flex; flex-direction:column; gap:5px; }
+.aq-field label { font-size:15px; font-weight:600; color:var(--text); }
+.aq-field select, .aq-field textarea {
+  width:100%; padding:9px 12px; border:1px solid var(--border); border-radius:8px;
+  font-family:inherit; font-size:16px; color:var(--text); background:var(--bg-panel);
+  outline:none; transition:border .2s; appearance:none;
+}
+.aq-field select:focus, .aq-field textarea:focus { border-color:var(--accent); }
+.aq-field select option { background:var(--bg-panel); color:var(--text); }
+.aq-field textarea { resize:vertical; min-height:140px; line-height:1.6; }
+.aq-field textarea::placeholder { color:var(--text-3); }
+.aq-field-hint { font-size:14px; color:var(--text-3); }
+
+/* UPLOAD */
+.aq-upload { display:block; border:2px dashed var(--border); border-radius:10px; padding:1.25rem; text-align:center; cursor:pointer; transition:all .2s; background:var(--surface); }
+.aq-upload:hover { border-color:var(--accent); background:var(--accent-dim); }
+.aq-upload.done  { border-color:var(--ok); background:var(--ok-dim); }
+.aq-upload-icon { font-size:1.8rem; margin-bottom:4px; }
+.aq-upload-text { font-size:16px; color:var(--text-2); }
+.aq-upload-sub  { font-size:14px; color:var(--text-3); margin-top:2px; }
+
+/* DIFF TABLE */
+.aq-table-wrap { overflow-x:auto; margin-bottom:1rem; }
+.aq-diff-table { width:100%; border-collapse:collapse; font-size:15px; }
+.aq-diff-table th { text-align:left; padding:7px 10px; font-size:13px; font-weight:700; text-transform:uppercase; letter-spacing:.05em; color:var(--text-3); border-bottom:2px solid var(--border); }
+.aq-diff-table td { padding:7px 10px; border-bottom:1px solid var(--surface-2); vertical-align:middle; }
+.aq-diff-table tr:last-child td { border-bottom:none; }
+.aq-diff-table tr.aq-row-active td { background:var(--accent-dim); font-weight:600; }
+.aq-goal-cell { font-size:14px; color:var(--text-2); }
+
+/* CHIPS */
+.aq-chip { display:inline-flex; align-items:center; font-size:13px; font-weight:700; padding:3px 9px; border-radius:12px; white-space:nowrap; }
+.aq-chip-blue { background:var(--accent-dim); color:var(--accent-2); }
+.aq-chip-gold { background:var(--warn-dim);  color:var(--warn); }
+.aq-chip-ve   { background:var(--bad-dim);  color:var(--bad); }
+.aq-chip-e    { background:rgba(201, 131, 74,0.15); color:var(--gold); }
+.aq-chip-m    { background:var(--accent-dim); color:var(--accent-2); }
+.aq-chip-mh   { background:var(--violet-dim); color:var(--violet); }
+.aq-chip-h    { background:var(--ok-dim);  color:var(--ok); }
+.aq-chip-remember   { background:var(--bad-dim);  color:var(--bad); }
+.aq-chip-understand { background:var(--gold-dim); color:var(--gold); }
+.aq-chip-apply      { background:var(--accent-dim); color:var(--accent-2); }
+.aq-chip-analyze    { background:var(--violet-dim); color:var(--violet); }
+.aq-chip-evaluate   { background:var(--ok-dim);  color:var(--ok); }
+
+/* ASSIGNED BANNER */
+.aq-banner { display:flex; align-items:center; gap:12px; padding:12px 14px; border-radius:10px; border:1px solid var(--border); background:var(--surface); margin-top:.75rem; }
+.aq-banner-icon  { font-size:1.6rem; }
+.aq-banner-sub   { font-size:13px; font-weight:700; text-transform:uppercase; letter-spacing:.06em; color:var(--text-2); }
+.aq-banner-val   { font-size:17px; font-weight:700; color:var(--text); margin-top:2px; }
+.aq-banner-goal  { font-size:15px; color:var(--text-2); margin-top:1px; }
+
+/* BUTTONS */
+.aq-btn { display:inline-flex; align-items:center; gap:6px; padding:10px 22px; border-radius:8px; font-family:inherit; font-size:16px; font-weight:600; cursor:pointer; border:none; transition:all .2s; white-space:nowrap; }
+.aq-btn-primary { background:var(--accent); color:white; }
+.aq-btn-primary:hover { background:var(--accent-strong); }
+.aq-btn-outline { background:transparent; color:var(--text-2); border:1px solid var(--border); }
+.aq-btn-outline:hover { background:var(--surface); color:var(--text); }
+.aq-btn-gold { background:var(--violet); color:var(--bg-panel); }
+.aq-btn-gold:hover { background:var(--violet); }
+.aq-btn-row { display:flex; justify-content:space-between; align-items:center; gap:10px; margin-top:1.25rem; }
+
+/* LOADING */
+.aq-loading { text-align:center; padding:2.5rem 1rem; }
+.aq-spinner { width:38px; height:38px; border:3px solid var(--border); border-top-color:var(--accent); border-radius:50%; animation:aq-spin .8s linear infinite; margin:0 auto 1rem; }
+@keyframes aq-spin { to { transform:rotate(360deg); } }
+.aq-loading p { font-size:16px; color:var(--text-2); }
+.aq-loading-step { font-size:15px; color:var(--text-3); margin-top:.5rem; }
+
+/* QUIZ HEADER */
+.aq-quiz-meta { display:flex; align-items:flex-start; justify-content:space-between; flex-wrap:wrap; gap:10px; }
+.aq-quiz-pills { display:flex; gap:6px; flex-wrap:wrap; margin-top:8px; }
+.aq-live-score { font-size:1.5rem; font-weight:800; color:var(--text); line-height:1; }
+.aq-live-label { font-size:14px; color:var(--text-2); margin-top:2px; }
+.aq-quiz-tip { margin-top:1rem; padding:10px 12px; background:var(--accent-dim); border:1px solid var(--accent-dim); border-radius:8px; font-size:15px; color:var(--accent-2); }
+
+/* QUESTION CARDS */
+.aq-qcard { border:1px solid var(--border); border-radius:10px; padding:1.1rem; margin-bottom:.75rem; background:var(--bg-panel); animation:aq-in .3s ease; }
+@keyframes aq-in { from{opacity:0;transform:translateY(5px)} to{opacity:1;transform:none} }
+.aq-qheader { display:flex; align-items:center; justify-content:space-between; gap:8px; margin-bottom:6px; }
+.aq-qnum  { font-size:14px; font-weight:700; color:var(--text-2); text-transform:uppercase; letter-spacing:.05em; }
+.aq-qtext { font-size:17px; font-weight:600; color:var(--text); line-height:1.5; margin-bottom:12px; }
+
+/* OPTIONS */
+.aq-opts { display:grid; grid-template-columns:1fr 1fr; gap:8px; margin-bottom:10px; }
+@media(max-width:560px){ .aq-opts { grid-template-columns:1fr; } }
+.aq-opt { display:flex; align-items:flex-start; gap:8px; padding:9px 12px; border:1.5px solid var(--border); border-radius:8px; cursor:pointer; transition:all .15s; font-size:16px; color:var(--text); background:transparent; width:100%; text-align:left; font-family:inherit; }
+.aq-opt:hover:not(:disabled) { border-color:var(--accent); background:var(--accent-dim); color:var(--text); }
+.aq-opt:disabled { cursor:default; }
+.aq-opt.correct { border-color:var(--ok); background:var(--ok-dim); color:var(--ok); }
+.aq-opt.wrong   { border-color:var(--bad); background:var(--bad-dim); color:var(--bad); }
+.aq-opt-key { width:22px; height:22px; border-radius:50%; display:flex; align-items:center; justify-content:center; font-size:14px; font-weight:800; flex-shrink:0; background:var(--border); color:var(--text-2); }
+.aq-opt.correct .aq-opt-key { background:var(--ok); color:white; }
+.aq-opt.wrong   .aq-opt-key { background:var(--bad); color:white; }
+
+/* EXPLANATION */
+.aq-exp { font-size:15px; color:var(--text-2); background:var(--surface); border-radius:8px; padding:8px 10px; border-left:3px solid var(--accent); line-height:1.6; margin-top:4px; }
+
+/* RESULTS */
+.aq-result-row { display:flex; align-items:center; justify-content:center; gap:1.5rem; flex-wrap:wrap; margin-bottom:1rem; }
+.aq-score-circle { width:90px; height:90px; border-radius:50%; display:flex; align-items:center; justify-content:center; flex-direction:column; border:3px solid var(--accent); margin:0 auto; }
+.aq-score-circle .snum { font-size:1.8rem; font-weight:800; line-height:1; }
+.aq-score-circle .sof  { font-size:14px; color:var(--text-2); }
+.aq-result-divider { width:1px; height:60px; background:var(--border); }
+.aq-result-comment { font-size:15px; color:var(--text-2); margin-top:6px; }
+.aq-review-item { padding:10px 0; border-bottom:1px solid var(--surface-2); }
+.aq-review-item:last-child { border-bottom:none; }
+.aq-review-q   { font-size:16px; font-weight:600; color:var(--text); margin-bottom:3px; }
+.aq-review-ans { font-size:15px; color:var(--text-2); margin-bottom:3px; }
+.aq-review-exp { font-size:15px; color:var(--text-2); background:var(--surface); padding:6px 8px; border-radius:6px; border-left:3px solid var(--accent); }
+
+.aq-fade { animation:aq-in .4s ease; }
+
+/* PILL */
+.aq-pill { display:inline-flex; align-items:center; font-size:13px; font-weight:600; padding:3px 9px; border-radius:12px; }
+.aq-pill-blue { background:var(--accent-dim); color:var(--accent-2); }
+.aq-pill-low  { background:var(--ok-dim);   color:var(--ok); }
+.aq-pill-med  { background:var(--warn-dim);  color:var(--warn); }
+.aq-pill-high { background:var(--bad-dim);   color:var(--bad); }
