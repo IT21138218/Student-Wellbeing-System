@@ -1,0 +1,1011 @@
+student_id,week,stress_trigger,coping_strategies_used,coping_primary_strategy,coping_effectiveness,break_frequency,talks_to_someone,belonging_score,loneliness_score,help_seeking_comfort,group_inclusion,has_support_person,class_support,class_competition,peer_helping,strategy_feedback,peer_support_feedback
+S001,2,Family,Talking to someone,Talking to someone,1,3,1,3,3,4,4,1,4,3,4,0,1
+S001,4,Family,Gaming/Entertainment,Gaming/Entertainment,1,3,1,4,3,5,4,1,4,3,5,0,1
+S001,8,Time pressure,Ignoring/Avoidance|Talking to someone|Journaling,Ignoring/Avoidance,0,4,1,4,2,4,4,1,4,4,3,0,1
+S001,10,Homework,Gaming/Entertainment|Music/Relaxation|Talking to someone,Gaming/Entertainment,0,3,1,3,2,3,3,1,4,4,4,1,1
+S001,12,Exams,Talking to someone|Music/Relaxation|Exercise/Sports,Talking to someone,2,3,1,3,3,3,4,1,3,3,4,0,1
+S002,2,Family,Music/Relaxation|Journaling|Exercise/Sports,Music/Relaxation,1,4,1,4,2,4,4,1,4,3,3,1,1
+S002,4,Homework,Music/Relaxation|Gaming/Entertainment,Music/Relaxation,2,3,1,3,3,4,4,1,4,2,4,1,1
+S002,6,Friends,Gaming/Entertainment|Exercise/Sports,Gaming/Entertainment,2,4,1,4,3,4,4,1,3,2,3,1,1
+S002,8,Family,Ignoring/Avoidance,Ignoring/Avoidance,0,4,1,3,3,4,4,1,3,2,4,0,0
+S002,10,Homework,Ignoring/Avoidance|Talking to someone,Ignoring/Avoidance,1,3,1,4,2,5,4,1,4,3,4,0,1
+S002,12,Exams,Deep breathing|Gaming/Entertainment,Deep breathing,1,4,1,3,3,4,4,1,4,3,4,1,1
+S003,4,Homework,Ignoring/Avoidance|Gaming/Entertainment,Ignoring/Avoidance,2,4,1,2,4,4,2,1,4,3,4,1,1
+S003,6,Homework,Ignoring/Avoidance|Music/Relaxation,Ignoring/Avoidance,0,4,0,3,4,3,2,1,4,3,4,0,1
+S003,8,Exams,Music/Relaxation|Talking to someone,Music/Relaxation,2,4,0,3,3,3,3,0,3,3,4,0,0
+S003,10,Friends,Ignoring/Avoidance|Deep breathing,Ignoring/Avoidance,1,3,1,3,3,4,3,1,3,3,4,1,1
+S003,12,Exams,Gaming/Entertainment,Gaming/Entertainment,2,3,1,3,3,3,4,1,3,4,3,1,1
+S004,2,Exams,Gaming/Entertainment|Deep breathing,Gaming/Entertainment,2,5,1,4,3,4,4,1,4,3,5,1,1
+S004,4,Teachers,Music/Relaxation|Exercise/Sports,Music/Relaxation,2,3,1,5,2,4,3,1,5,4,4,0,1
+S004,6,Time pressure,Deep breathing|Exercise/Sports,Deep breathing,1,3,1,5,2,5,4,1,4,3,4,1,1
+S004,8,Homework,Music/Relaxation|Talking to someone,Music/Relaxation,1,5,1,5,2,5,4,1,5,3,5,0,1
+S004,10,Time pressure,Sleeping|Gaming/Entertainment,Sleeping,1,3,1,4,2,4,4,1,4,3,5,0,1
+S005,2,Exams,Music/Relaxation|Ignoring/Avoidance,Music/Relaxation,2,4,1,3,3,4,4,1,3,4,3,1,1
+S005,4,Time pressure,Talking to someone|Music/Relaxation,Talking to someone,2,4,1,4,2,4,4,1,4,4,4,0,1
+S005,6,Homework,Music/Relaxation|Gaming/Entertainment|Talking to someone,Music/Relaxation,2,5,0,4,3,4,3,1,4,3,4,1,0
+S005,10,Exams,Sleeping|Ignoring/Avoidance,Sleeping,2,3,1,4,3,4,4,1,4,3,4,1,1
+S005,12,Exams,Talking to someone|Music/Relaxation,Talking to someone,1,4,1,3,3,3,3,1,4,4,4,0,1
+S006,2,Friends,Exercise/Sports|Gaming/Entertainment,Exercise/Sports,2,4,0,1,4,2,2,0,2,3,3,1,0
+S006,4,Homework,Exercise/Sports|Music/Relaxation,Exercise/Sports,2,4,0,2,3,2,3,0,3,3,3,1,0
+S006,6,Exams,Talking to someone|Exercise/Sports,Talking to someone,2,5,0,2,4,3,3,0,3,4,2,1,1
+S006,8,Family,Music/Relaxation,Music/Relaxation,2,2,1,3,3,3,3,1,3,3,3,1,0
+S006,10,Time pressure,Deep breathing|Music/Relaxation,Deep breathing,0,3,0,3,3,3,3,0,3,4,3,1,0
+S006,12,Teachers,Talking to someone|Gaming/Entertainment,Talking to someone,1,4,1,3,3,4,3,1,3,3,4,1,0
+S007,2,Teachers,Ignoring/Avoidance|Gaming/Entertainment,Ignoring/Avoidance,2,4,1,4,2,4,4,1,5,3,5,1,1
+S007,4,Exams,Ignoring/Avoidance,Ignoring/Avoidance,2,3,1,4,2,5,3,1,5,4,4,1,0
+S007,6,Family,Ignoring/Avoidance|Music/Relaxation|Sleeping,Ignoring/Avoidance,1,5,1,4,2,5,4,1,4,3,4,1,1
+S007,8,Exams,Ignoring/Avoidance|Gaming/Entertainment,Ignoring/Avoidance,0,4,1,4,2,5,4,1,4,3,5,0,1
+S007,10,Time pressure,Ignoring/Avoidance|Gaming/Entertainment,Ignoring/Avoidance,0,5,1,5,2,4,4,1,4,4,4,0,1
+S007,12,Teachers,Ignoring/Avoidance|Deep breathing,Ignoring/Avoidance,0,4,1,5,3,5,4,1,5,3,4,1,1
+S008,4,Time pressure,Deep breathing|Ignoring/Avoidance,Deep breathing,2,4,1,2,4,3,2,1,3,1,3,1,1
+S008,6,Exams,Ignoring/Avoidance|Talking to someone|Music/Relaxation,Ignoring/Avoidance,0,4,1,3,3,4,3,1,3,4,3,0,0
+S008,8,Time pressure,Ignoring/Avoidance|Music/Relaxation,Ignoring/Avoidance,2,4,0,3,3,3,3,1,3,4,2,1,0
+S008,10,Exams,Gaming/Entertainment,Gaming/Entertainment,1,4,1,4,3,4,3,1,4,3,3,1,1
+S009,4,Exams,Music/Relaxation|Gaming/Entertainment|Exercise/Sports,Music/Relaxation,1,5,1,4,2,5,4,1,4,2,4,1,1
+S009,6,Time pressure,Journaling|Deep breathing|Music/Relaxation,Journaling,2,4,1,4,2,5,3,1,4,2,4,1,1
+S009,8,Time pressure,Music/Relaxation,Music/Relaxation,2,5,1,5,2,5,4,1,5,2,4,1,1
+S009,10,Time pressure,Deep breathing|Talking to someone,Deep breathing,2,4,1,4,2,4,5,1,4,3,5,1,1
+S009,12,Teachers,Exercise/Sports,Exercise/Sports,2,4,1,5,1,4,4,1,5,2,5,1,0
+S010,2,Homework,Ignoring/Avoidance|Gaming/Entertainment|Music/Relaxation,Ignoring/Avoidance,0,3,1,5,2,4,4,1,5,3,5,0,1
+S010,4,Friends,Journaling|Ignoring/Avoidance,Journaling,2,4,1,4,1,4,5,1,5,4,5,1,1
+S010,6,Friends,Talking to someone|Exercise/Sports,Talking to someone,2,4,1,4,2,4,5,1,4,4,4,1,1
+S010,10,Exams,Sleeping,Sleeping,2,4,1,5,2,4,4,1,5,4,5,1,1
+S010,12,Homework,Exercise/Sports|Ignoring/Avoidance|Music/Relaxation,Exercise/Sports,2,4,1,5,2,5,5,1,5,4,4,1,1
+S011,2,Time pressure,Gaming/Entertainment|Exercise/Sports|Music/Relaxation,Gaming/Entertainment,2,3,1,4,3,4,3,1,4,4,3,1,1
+S011,4,Exams,Gaming/Entertainment|Deep breathing,Gaming/Entertainment,1,4,1,3,3,4,3,1,4,4,4,1,1
+S011,6,Teachers,Exercise/Sports|Ignoring/Avoidance,Exercise/Sports,0,3,1,3,2,4,4,0,3,4,4,0,0
+S011,10,Exams,Ignoring/Avoidance,Ignoring/Avoidance,0,3,0,4,2,3,4,1,4,4,4,1,1
+S011,12,Homework,Music/Relaxation|Deep breathing,Music/Relaxation,1,4,1,4,2,4,3,1,4,3,5,0,0
+S012,2,Time pressure,Music/Relaxation|Talking to someone,Music/Relaxation,2,4,1,4,3,3,3,1,4,3,5,1,1
+S012,6,Time pressure,Deep breathing|Music/Relaxation|Talking to someone,Deep breathing,1,4,1,4,2,5,4,1,3,3,4,0,1
+S012,8,Exams,Talking to someone|Exercise/Sports|Music/Relaxation,Talking to someone,2,4,1,3,3,3,3,1,3,2,3,1,1
+S012,12,Teachers,Journaling,Journaling,2,4,1,4,3,4,3,1,4,3,4,1,1
+S013,2,Homework,Talking to someone|Journaling,Talking to someone,1,3,1,2,4,3,3,1,3,4,4,1,1
+S013,4,Time pressure,Music/Relaxation|Talking to someone,Music/Relaxation,2,3,1,3,3,3,4,1,3,4,4,1,1
+S013,8,Family,Gaming/Entertainment,Gaming/Entertainment,2,3,1,2,3,3,3,0,3,4,4,1,0
+S013,10,Teachers,Sleeping|Exercise/Sports,Sleeping,0,3,1,3,3,3,3,1,3,4,3,0,1
+S013,12,Friends,Journaling,Journaling,1,3,1,3,3,3,4,1,3,4,3,1,1
+S014,6,Exams,Sleeping|Music/Relaxation,Sleeping,0,3,1,4,3,4,3,1,4,3,4,0,1
+S014,8,Exams,Ignoring/Avoidance|Sleeping,Ignoring/Avoidance,1,4,1,4,3,4,4,1,4,3,4,1,1
+S015,2,Family,Talking to someone,Talking to someone,2,3,1,4,3,4,4,1,3,3,4,1,0
+S015,4,Time pressure,Music/Relaxation|Exercise/Sports|Gaming/Entertainment,Music/Relaxation,2,4,1,4,2,5,4,1,3,3,4,1,1
+S015,6,Exams,Music/Relaxation|Exercise/Sports,Music/Relaxation,2,3,1,4,2,4,3,1,4,3,4,1,1
+S015,8,Time pressure,Exercise/Sports,Exercise/Sports,2,3,1,5,2,5,5,1,4,4,4,1,0
+S015,10,Time pressure,Talking to someone,Talking to someone,2,4,1,4,3,4,3,1,4,4,4,0,1
+S015,12,Exams,Music/Relaxation|Talking to someone,Music/Relaxation,2,4,1,4,3,4,4,1,4,4,4,1,0
+S016,2,Exams,Ignoring/Avoidance|Gaming/Entertainment,Ignoring/Avoidance,0,4,1,3,4,4,3,1,3,5,4,0,1
+S016,4,Friends,Ignoring/Avoidance|Music/Relaxation|Gaming/Entertainment,Ignoring/Avoidance,1,4,1,3,3,4,3,1,4,4,3,1,1
+S016,6,Exams,Music/Relaxation,Music/Relaxation,2,3,1,3,3,4,3,1,4,4,4,1,1
+S016,10,Family,Music/Relaxation|Ignoring/Avoidance,Music/Relaxation,2,4,1,4,3,3,3,1,4,4,4,0,1
+S017,2,Exams,Ignoring/Avoidance|Exercise/Sports,Ignoring/Avoidance,1,4,1,2,4,4,2,1,3,3,3,0,1
+S017,4,Exams,Music/Relaxation|Gaming/Entertainment,Music/Relaxation,0,3,0,4,3,4,3,1,3,2,2,0,0
+S017,6,Time pressure,Talking to someone,Talking to someone,0,4,0,2,4,3,2,1,2,3,2,1,1
+S017,8,Exams,Music/Relaxation|Ignoring/Avoidance,Music/Relaxation,1,3,1,1,4,4,2,1,3,2,2,0,1
+S017,10,Friends,Talking to someone,Talking to someone,1,4,0,2,4,4,2,0,3,3,3,1,0
+S017,12,Homework,Exercise/Sports|Deep breathing|Gaming/Entertainment,Exercise/Sports,1,4,0,3,3,4,3,1,3,2,3,1,1
+S018,4,Exams,Deep breathing,Deep breathing,1,3,1,4,2,3,4,1,3,4,4,1,1
+S018,8,Teachers,Deep breathing,Deep breathing,1,3,1,4,3,4,4,1,3,5,4,0,1
+S018,10,Teachers,Journaling|Talking to someone,Journaling,2,3,1,3,3,3,4,1,3,3,4,1,1
+S018,12,Time pressure,Ignoring/Avoidance|Exercise/Sports|Journaling,Ignoring/Avoidance,0,3,1,4,2,4,4,1,3,4,4,0,1
+S019,2,Family,Deep breathing|Journaling,Deep breathing,2,4,1,4,3,4,4,1,4,3,5,1,1
+S019,4,Time pressure,Talking to someone|Music/Relaxation,Talking to someone,1,4,1,3,3,4,4,1,3,3,4,0,1
+S019,6,Homework,Talking to someone|Journaling,Talking to someone,2,4,1,4,3,5,3,1,4,3,4,1,1
+S019,8,Time pressure,Sleeping|Exercise/Sports,Sleeping,2,5,1,4,3,5,3,1,3,3,4,0,1
+S019,10,Time pressure,Music/Relaxation|Talking to someone,Music/Relaxation,2,4,1,3,3,4,3,1,3,3,3,0,1
+S019,12,Teachers,Deep breathing,Deep breathing,2,4,1,4,2,4,3,1,3,3,4,1,1
+S020,4,Exams,Gaming/Entertainment,Gaming/Entertainment,1,3,1,4,3,3,3,1,3,3,4,1,1
+S020,6,Friends,Talking to someone|Ignoring/Avoidance|Journaling,Talking to someone,2,4,1,4,3,3,4,1,4,3,4,1,0
+S020,8,Exams,Music/Relaxation|Deep breathing|Ignoring/Avoidance,Music/Relaxation,0,4,1,4,2,3,4,1,4,3,4,0,1
+S020,10,Family,Music/Relaxation|Sleeping,Music/Relaxation,2,3,1,4,2,4,4,1,4,3,4,1,0
+S021,2,Family,Deep breathing,Deep breathing,1,4,1,3,2,4,4,1,4,3,4,1,1
+S021,4,Friends,Exercise/Sports,Exercise/Sports,2,4,1,4,3,3,4,1,3,4,3,1,0
+S021,6,Homework,Music/Relaxation,Music/Relaxation,2,5,1,4,3,3,3,1,4,3,4,1,1
+S021,8,Friends,Deep breathing,Deep breathing,2,4,1,4,3,3,3,1,3,2,4,1,1
+S021,10,Time pressure,Deep breathing|Sleeping,Deep breathing,1,4,1,4,2,4,4,1,3,4,4,1,1
+S021,12,Exams,Talking to someone,Talking to someone,2,4,1,4,2,3,4,1,4,2,4,1,1
+S022,2,Time pressure,Music/Relaxation,Music/Relaxation,1,4,1,4,2,4,5,1,4,3,4,1,1
+S022,4,Time pressure,Talking to someone|Deep breathing,Talking to someone,1,3,1,3,2,4,4,1,4,2,4,1,0
+S022,6,Teachers,Music/Relaxation|Sleeping,Music/Relaxation,2,3,1,4,2,4,4,1,4,3,5,1,1
+S022,8,Family,Talking to someone|Deep breathing,Talking to someone,1,3,1,4,2,4,4,1,4,2,4,0,1
+S022,10,Family,Music/Relaxation|Gaming/Entertainment|Ignoring/Avoidance,Music/Relaxation,1,4,1,4,2,4,4,1,4,3,5,0,1
+S022,12,Exams,Ignoring/Avoidance,Ignoring/Avoidance,2,3,1,4,2,4,5,1,5,3,4,1,1
+S023,2,Family,Gaming/Entertainment,Gaming/Entertainment,2,5,1,4,2,4,4,1,4,4,4,1,1
+S023,6,Friends,Journaling|Talking to someone,Journaling,1,5,1,4,2,4,4,1,4,3,4,1,1
+S023,8,Friends,Deep breathing|Music/Relaxation,Deep breathing,2,4,1,4,2,4,3,1,4,4,4,1,1
+S023,10,Exams,Exercise/Sports,Exercise/Sports,2,4,1,4,3,5,4,1,5,3,4,1,0
+S023,12,Teachers,Music/Relaxation|Exercise/Sports,Music/Relaxation,2,4,1,4,2,4,4,1,4,4,4,1,1
+S024,2,Exams,Journaling,Journaling,2,4,1,3,3,4,4,1,3,4,4,1,1
+S024,4,Family,Ignoring/Avoidance,Ignoring/Avoidance,1,3,1,4,2,3,3,1,5,4,4,1,1
+S024,8,Exams,Journaling|Talking to someone,Journaling,2,4,1,4,3,4,4,1,3,3,3,0,1
+S024,10,Homework,Gaming/Entertainment,Gaming/Entertainment,2,3,1,3,3,3,3,1,3,4,4,1,1
+S024,12,Time pressure,Ignoring/Avoidance|Gaming/Entertainment|Music/Relaxation,Ignoring/Avoidance,1,3,1,4,2,4,3,1,3,3,3,1,1
+S025,2,Homework,Sleeping,Sleeping,0,3,1,3,3,3,4,0,3,4,3,0,0
+S025,4,Friends,Music/Relaxation|Gaming/Entertainment,Music/Relaxation,1,3,1,3,3,3,3,1,3,4,3,1,1
+S025,8,Time pressure,Gaming/Entertainment,Gaming/Entertainment,1,2,1,3,3,3,4,1,3,3,4,1,1
+S025,10,Friends,Talking to someone|Exercise/Sports|Gaming/Entertainment,Talking to someone,2,2,0,3,3,3,4,0,3,4,3,1,0
+S025,12,Family,Ignoring/Avoidance|Music/Relaxation|Gaming/Entertainment,Ignoring/Avoidance,0,2,0,3,3,3,3,1,3,4,4,1,0
+S026,2,Homework,Exercise/Sports|Music/Relaxation|Journaling,Exercise/Sports,2,4,1,3,3,3,3,1,3,4,3,1,0
+S026,4,Exams,Deep breathing|Exercise/Sports|Talking to someone,Deep breathing,2,3,1,3,3,2,3,1,3,4,2,1,1
+S026,8,Exams,Talking to someone|Music/Relaxation|Deep breathing,Talking to someone,1,3,1,2,4,3,3,0,3,3,4,1,1
+S026,10,Exams,Music/Relaxation,Music/Relaxation,1,3,1,3,3,3,4,1,4,5,3,1,1
+S026,12,Friends,Talking to someone|Gaming/Entertainment,Talking to someone,2,4,1,3,3,4,2,0,3,4,4,1,0
+S027,2,Homework,Exercise/Sports,Exercise/Sports,2,3,1,3,3,3,3,1,3,2,4,1,0
+S027,4,Family,Sleeping|Gaming/Entertainment,Sleeping,0,2,1,4,2,4,3,1,3,3,3,0,1
+S027,6,Teachers,Talking to someone|Ignoring/Avoidance|Exercise/Sports,Talking to someone,1,3,1,3,2,3,3,1,2,3,4,0,1
+S027,8,Family,Ignoring/Avoidance|Gaming/Entertainment|Journaling,Ignoring/Avoidance,0,3,1,3,3,4,3,0,4,3,4,0,0
+S027,10,Homework,Exercise/Sports|Ignoring/Avoidance,Exercise/Sports,0,3,0,3,3,2,3,0,3,3,3,1,0
+S027,12,Homework,Music/Relaxation|Gaming/Entertainment|Ignoring/Avoidance,Music/Relaxation,2,3,1,4,3,3,3,1,3,3,3,1,1
+S028,2,Exams,Sleeping|Music/Relaxation|Exercise/Sports,Sleeping,0,4,1,4,3,4,3,1,3,2,3,0,0
+S028,4,Homework,Ignoring/Avoidance|Music/Relaxation,Ignoring/Avoidance,1,5,1,4,3,4,3,1,3,3,3,1,1
+S028,6,Teachers,Music/Relaxation,Music/Relaxation,1,4,0,3,3,4,3,0,3,2,3,0,0
+S028,10,Homework,Ignoring/Avoidance,Ignoring/Avoidance,1,4,1,3,4,4,2,1,4,2,3,1,0
+S028,12,Homework,Gaming/Entertainment,Gaming/Entertainment,2,5,1,4,3,4,3,1,4,3,3,0,1
+S029,2,Exams,Exercise/Sports|Talking to someone,Exercise/Sports,2,3,1,4,2,4,4,1,4,4,4,0,1
+S029,4,Exams,Exercise/Sports|Deep breathing|Ignoring/Avoidance,Exercise/Sports,1,5,1,4,2,4,3,1,4,3,4,1,0
+S029,6,Exams,Journaling|Exercise/Sports,Journaling,2,4,1,4,2,4,4,1,4,2,4,0,1
+S029,8,Time pressure,Journaling|Talking to someone,Journaling,2,3,1,5,3,4,4,1,4,3,4,1,1
+S029,10,Family,Ignoring/Avoidance|Exercise/Sports|Deep breathing,Ignoring/Avoidance,1,4,1,4,3,4,4,1,4,3,4,1,1
+S029,12,Time pressure,Journaling|Talking to someone,Journaling,1,4,1,5,2,4,4,1,4,3,4,1,1
+S030,2,Exams,Ignoring/Avoidance,Ignoring/Avoidance,0,4,1,4,3,4,4,1,5,2,5,1,1
+S030,4,Family,Ignoring/Avoidance,Ignoring/Avoidance,0,4,1,4,2,4,3,1,4,3,5,0,0
+S030,6,Homework,Ignoring/Avoidance|Gaming/Entertainment,Ignoring/Avoidance,2,3,1,4,2,4,4,1,4,3,4,1,0
+S030,10,Time pressure,Exercise/Sports|Gaming/Entertainment,Exercise/Sports,2,3,1,5,2,5,4,1,4,2,5,1,1
+S030,12,Exams,Sleeping|Ignoring/Avoidance,Sleeping,1,4,1,4,2,4,4,1,5,3,5,1,0
+S031,2,Time pressure,Ignoring/Avoidance,Ignoring/Avoidance,2,4,0,1,4,4,3,0,3,3,3,0,1
+S031,4,Friends,Ignoring/Avoidance|Sleeping,Ignoring/Avoidance,0,4,0,2,4,3,2,0,3,2,2,0,0
+S031,8,Friends,Ignoring/Avoidance|Music/Relaxation,Ignoring/Avoidance,1,4,0,2,4,3,2,0,3,3,3,1,1
+S031,10,Exams,Journaling|Exercise/Sports,Journaling,0,4,0,2,4,4,2,0,3,3,3,0,1
+S031,12,Exams,Gaming/Entertainment|Music/Relaxation|Talking to someone,Gaming/Entertainment,1,4,0,2,4,3,2,1,3,2,2,1,1
+S032,2,Homework,Gaming/Entertainment|Music/Relaxation,Gaming/Entertainment,2,4,1,4,2,3,4,1,4,4,4,0,1
+S032,6,Exams,Music/Relaxation,Music/Relaxation,2,4,1,4,3,4,4,1,4,3,4,1,1
+S032,8,Exams,Exercise/Sports|Deep breathing,Exercise/Sports,2,3,1,3,3,5,4,1,3,4,5,1,1
+S032,10,Time pressure,Ignoring/Avoidance,Ignoring/Avoidance,1,3,1,5,3,4,3,1,4,4,5,1,1
+S032,12,Exams,Talking to someone|Deep breathing|Music/Relaxation,Talking to someone,2,5,1,4,2,4,4,1,3,4,4,1,1
+S033,2,Homework,Talking to someone|Gaming/Entertainment,Talking to someone,2,3,0,2,3,2,3,0,2,4,2,1,0
+S033,4,Friends,Talking to someone|Exercise/Sports,Talking to someone,1,3,0,2,3,2,2,0,3,3,3,1,1
+S033,8,Exams,Talking to someone|Deep breathing,Talking to someone,2,3,1,2,3,3,3,1,2,3,3,0,1
+S033,10,Homework,Music/Relaxation|Gaming/Entertainment|Exercise/Sports,Music/Relaxation,1,4,0,3,3,3,2,0,3,2,3,1,0
+S033,12,Time pressure,Music/Relaxation|Talking to someone|Journaling,Music/Relaxation,2,4,0,3,3,4,2,0,3,4,2,1,1
+S034,4,Family,Talking to someone|Ignoring/Avoidance,Talking to someone,2,3,1,4,2,3,4,1,5,3,4,1,1
+S034,6,Time pressure,Deep breathing|Talking to someone|Music/Relaxation,Deep breathing,2,3,1,4,2,4,4,1,4,4,5,1,1
+S034,8,Time pressure,Ignoring/Avoidance|Gaming/Entertainment,Ignoring/Avoidance,1,3,1,5,2,4,5,1,4,3,4,0,1
+S034,10,Homework,Music/Relaxation,Music/Relaxation,2,4,1,4,2,4,4,1,4,3,4,1,1
+S034,12,Exams,Talking to someone|Gaming/Entertainment,Talking to someone,2,2,1,4,2,4,4,1,4,4,4,1,0
+S035,2,Homework,Journaling|Exercise/Sports|Deep breathing,Journaling,1,4,1,4,2,4,4,1,3,3,4,0,1
+S035,4,Exams,Gaming/Entertainment|Music/Relaxation,Gaming/Entertainment,2,4,1,4,2,4,4,1,4,4,4,0,1
+S035,6,Friends,Gaming/Entertainment|Exercise/Sports,Gaming/Entertainment,1,4,1,5,2,5,4,1,4,3,4,1,1
+S035,10,Time pressure,Deep breathing|Talking to someone|Music/Relaxation,Deep breathing,1,4,1,4,3,4,3,1,4,3,4,1,1
+S035,12,Teachers,Journaling,Journaling,2,4,1,4,2,4,4,1,4,4,4,1,1
+S036,2,Friends,Exercise/Sports|Music/Relaxation,Exercise/Sports,2,3,1,4,2,4,4,1,4,3,4,1,1
+S036,4,Time pressure,Talking to someone|Music/Relaxation,Talking to someone,2,4,1,4,3,4,3,1,3,3,4,1,1
+S036,6,Exams,Deep breathing|Journaling,Deep breathing,1,3,1,2,3,3,2,1,3,4,4,1,1
+S036,10,Homework,Exercise/Sports|Gaming/Entertainment,Exercise/Sports,2,3,1,3,3,4,3,1,4,4,4,1,1
+S036,12,Time pressure,Music/Relaxation|Exercise/Sports,Music/Relaxation,2,4,1,3,2,4,4,1,3,4,4,1,1
+S037,2,Exams,Music/Relaxation,Music/Relaxation,2,4,0,2,4,3,1,0,4,3,3,1,0
+S037,4,Family,Gaming/Entertainment,Gaming/Entertainment,1,4,0,4,3,3,4,1,4,3,3,1,1
+S037,6,Time pressure,Talking to someone,Talking to someone,2,4,1,3,3,4,3,1,3,3,3,0,1
+S037,8,Family,Exercise/Sports|Talking to someone|Music/Relaxation,Exercise/Sports,1,5,0,3,3,4,3,0,4,3,3,1,0
+S037,10,Family,Deep breathing|Gaming/Entertainment,Deep breathing,1,4,0,2,4,3,2,0,3,3,3,1,0
+S037,12,Exams,Deep breathing,Deep breathing,2,4,1,1,4,3,2,1,3,4,3,0,0
+S038,2,Exams,Ignoring/Avoidance|Music/Relaxation,Ignoring/Avoidance,0,3,1,4,2,4,4,1,3,3,4,0,1
+S038,4,Family,Ignoring/Avoidance|Exercise/Sports,Ignoring/Avoidance,2,3,1,4,2,5,4,1,4,4,4,1,1
+S038,6,Exams,Sleeping|Exercise/Sports|Music/Relaxation,Sleeping,0,3,1,4,2,4,4,1,4,4,4,0,1
+S038,10,Homework,Gaming/Entertainment|Exercise/Sports,Gaming/Entertainment,1,2,1,4,2,5,4,1,5,3,5,1,1
+S038,12,Exams,Talking to someone,Talking to someone,2,4,1,4,2,5,5,1,4,4,5,0,1
+S039,6,Exams,Journaling|Exercise/Sports,Journaling,1,4,1,4,3,3,3,1,4,3,4,0,1
+S039,8,Family,Sleeping|Talking to someone,Sleeping,1,3,1,4,2,3,4,1,4,3,3,0,1
+S039,10,Homework,Journaling|Sleeping,Journaling,1,3,1,4,2,4,4,1,4,4,4,1,1
+S039,12,Exams,Journaling,Journaling,1,3,1,4,2,4,4,1,3,3,5,0,1
+S040,4,Exams,Sleeping|Deep breathing,Sleeping,0,2,0,1,4,3,1,0,2,3,2,1,0
+S040,6,Exams,Ignoring/Avoidance|Talking to someone,Ignoring/Avoidance,0,3,0,1,4,1,2,0,2,4,2,1,0
+S040,8,Time pressure,Ignoring/Avoidance,Ignoring/Avoidance,1,2,0,1,5,2,2,0,1,4,1,1,0
+S040,12,Homework,Music/Relaxation,Music/Relaxation,2,3,0,2,4,3,2,0,2,4,2,1,0
+S041,2,Exams,Gaming/Entertainment|Deep breathing|Music/Relaxation,Gaming/Entertainment,1,5,1,4,3,4,4,1,5,4,3,0,1
+S041,4,Homework,Gaming/Entertainment|Journaling,Gaming/Entertainment,0,4,1,4,2,4,3,1,4,3,3,0,1
+S041,6,Teachers,Exercise/Sports|Journaling,Exercise/Sports,1,5,1,5,3,5,4,1,5,3,4,1,0
+S041,8,Time pressure,Music/Relaxation,Music/Relaxation,1,4,1,5,3,5,3,1,5,3,4,1,1
+S041,10,Time pressure,Music/Relaxation|Deep breathing,Music/Relaxation,1,5,1,4,3,4,4,1,4,4,4,1,0
+S041,12,Family,Exercise/Sports|Ignoring/Avoidance|Talking to someone,Exercise/Sports,0,4,1,4,3,5,4,1,3,3,4,0,1
+S042,2,Time pressure,Talking to someone|Music/Relaxation,Talking to someone,1,3,1,3,3,4,3,1,3,4,3,0,1
+S042,4,Exams,Deep breathing|Talking to someone,Deep breathing,2,4,0,3,3,3,3,0,3,3,3,1,0
+S042,6,Exams,Ignoring/Avoidance|Exercise/Sports|Sleeping,Ignoring/Avoidance,1,3,1,4,3,3,3,1,4,4,3,1,1
+S042,8,Teachers,Talking to someone,Talking to someone,1,4,1,3,3,4,3,1,3,3,2,1,1
+S042,10,Homework,Exercise/Sports|Sleeping,Exercise/Sports,0,4,0,3,3,3,3,1,3,4,3,0,0
+S042,12,Homework,Deep breathing,Deep breathing,1,3,0,2,4,3,2,0,3,4,3,0,0
+S043,4,Friends,Talking to someone|Exercise/Sports,Talking to someone,2,4,1,1,4,3,3,1,3,4,3,1,1
+S043,6,Family,Gaming/Entertainment|Exercise/Sports,Gaming/Entertainment,2,5,1,3,3,4,3,1,4,2,2,1,1
+S043,8,Exams,Journaling|Gaming/Entertainment,Journaling,1,4,0,3,3,3,3,1,3,2,3,0,1
+S043,10,Homework,Gaming/Entertainment|Music/Relaxation,Gaming/Entertainment,2,3,1,2,4,4,2,1,3,3,3,1,1
+S044,2,Exams,Talking to someone,Talking to someone,2,5,1,3,3,3,3,1,3,3,3,0,1
+S044,4,Exams,Talking to someone,Talking to someone,2,5,1,4,3,3,2,1,4,3,3,1,1
+S044,6,Teachers,Exercise/Sports,Exercise/Sports,1,4,1,2,4,3,3,1,3,3,3,1,1
+S044,8,Exams,Deep breathing|Talking to someone,Deep breathing,2,4,1,2,4,4,2,1,4,3,3,0,1
+S044,10,Friends,Gaming/Entertainment|Exercise/Sports,Gaming/Entertainment,1,5,0,2,4,3,3,1,3,3,3,0,1
+S044,12,Exams,Talking to someone|Sleeping,Talking to someone,1,4,0,2,4,3,2,1,3,4,3,1,1
+S045,2,Teachers,Music/Relaxation|Talking to someone|Journaling,Music/Relaxation,1,4,1,3,4,4,3,1,3,3,3,0,1
+S045,4,Homework,Gaming/Entertainment,Gaming/Entertainment,1,4,1,3,2,3,4,1,3,3,3,1,1
+S045,6,Exams,Journaling|Talking to someone,Journaling,2,4,1,4,2,3,3,1,3,4,3,0,1
+S045,8,Time pressure,Music/Relaxation|Sleeping,Music/Relaxation,2,3,1,3,3,4,4,0,3,3,3,1,0
+S045,10,Exams,Music/Relaxation|Journaling|Ignoring/Avoidance,Music/Relaxation,0,3,1,4,3,4,5,1,4,3,3,0,1
+S045,12,Family,Deep breathing|Music/Relaxation|Exercise/Sports,Deep breathing,1,5,1,4,2,4,4,1,4,3,5,1,1
+S046,2,Friends,Talking to someone|Music/Relaxation,Talking to someone,1,4,1,3,3,3,4,1,3,3,3,0,1
+S046,4,Time pressure,Deep breathing|Exercise/Sports,Deep breathing,1,3,1,3,3,3,3,1,3,3,3,1,1
+S046,6,Exams,Sleeping,Sleeping,1,4,1,4,3,3,3,1,3,4,4,1,1
+S046,8,Exams,Music/Relaxation|Exercise/Sports|Talking to someone,Music/Relaxation,2,4,0,2,3,3,3,1,3,3,3,1,0
+S046,10,Exams,Talking to someone,Talking to someone,2,3,0,2,4,3,3,0,3,4,4,1,0
+S046,12,Exams,Exercise/Sports|Talking to someone,Exercise/Sports,2,3,1,3,3,4,3,0,3,4,4,1,0
+S047,4,Exams,Music/Relaxation|Deep breathing,Music/Relaxation,2,3,1,4,3,4,4,1,4,3,5,1,1
+S047,6,Friends,Ignoring/Avoidance,Ignoring/Avoidance,0,4,1,3,2,5,3,1,4,3,3,0,0
+S047,8,Homework,Sleeping|Ignoring/Avoidance,Sleeping,0,4,1,4,3,4,4,1,4,3,4,0,0
+S047,10,Homework,Ignoring/Avoidance|Gaming/Entertainment,Ignoring/Avoidance,1,4,1,4,2,4,4,1,4,1,4,1,0
+S047,12,Time pressure,Exercise/Sports|Music/Relaxation|Sleeping,Exercise/Sports,2,4,1,4,2,4,3,1,3,3,4,1,1
+S048,2,Time pressure,Sleeping|Ignoring/Avoidance,Sleeping,2,3,0,3,3,4,3,1,2,3,2,1,1
+S048,6,Exams,Gaming/Entertainment|Deep breathing,Gaming/Entertainment,1,4,1,2,4,2,3,1,3,4,3,1,1
+S048,8,Time pressure,Deep breathing|Sleeping|Ignoring/Avoidance,Deep breathing,2,3,1,3,3,4,3,1,3,5,2,1,1
+S048,10,Exams,Ignoring/Avoidance|Gaming/Entertainment,Ignoring/Avoidance,0,3,0,3,3,3,3,0,3,3,3,0,0
+S048,12,Time pressure,Sleeping|Music/Relaxation|Deep breathing,Sleeping,0,3,0,1,4,3,2,0,3,4,4,0,0
+S049,4,Exams,Exercise/Sports|Journaling|Talking to someone,Exercise/Sports,2,5,1,4,3,4,4,1,5,4,4,1,1
+S049,6,Friends,Music/Relaxation|Gaming/Entertainment,Music/Relaxation,1,3,1,4,2,4,4,1,4,4,3,1,1
+S049,8,Homework,Talking to someone|Deep breathing,Talking to someone,2,4,1,4,2,4,4,1,4,4,4,1,0
+S049,10,Homework,Exercise/Sports|Journaling|Music/Relaxation,Exercise/Sports,1,3,1,2,4,4,4,1,4,4,4,1,1
+S049,12,Homework,Ignoring/Avoidance,Ignoring/Avoidance,0,3,1,5,2,4,4,1,4,4,3,0,1
+S050,2,Time pressure,Ignoring/Avoidance|Music/Relaxation,Ignoring/Avoidance,2,4,1,3,3,4,3,1,4,4,3,1,1
+S050,6,Exams,Exercise/Sports|Gaming/Entertainment,Exercise/Sports,2,4,1,4,3,4,4,1,4,3,4,1,1
+S050,10,Family,Talking to someone|Exercise/Sports|Sleeping,Talking to someone,0,4,0,4,2,3,4,1,4,3,3,1,1
+S050,12,Time pressure,Deep breathing,Deep breathing,2,4,1,4,2,4,3,1,4,3,3,1,1
+S051,2,Family,Deep breathing,Deep breathing,1,4,1,4,2,4,4,1,4,4,3,1,1
+S051,4,Time pressure,Music/Relaxation,Music/Relaxation,1,4,0,3,2,4,3,1,4,3,3,0,1
+S051,6,Exams,Talking to someone,Talking to someone,2,5,1,4,3,4,2,1,4,3,3,0,1
+S051,8,Exams,Journaling|Exercise/Sports,Journaling,1,4,1,4,2,3,3,1,3,3,3,1,1
+S051,10,Homework,Deep breathing|Ignoring/Avoidance,Deep breathing,2,5,1,4,3,4,4,1,4,2,3,1,1
+S052,2,Homework,Exercise/Sports|Music/Relaxation,Exercise/Sports,1,4,0,3,4,3,3,1,3,3,2,0,1
+S052,4,Family,Ignoring/Avoidance|Deep breathing,Ignoring/Avoidance,0,3,1,4,3,3,3,1,4,3,3,1,1
+S052,6,Family,Music/Relaxation|Ignoring/Avoidance,Music/Relaxation,1,3,0,2,4,4,2,0,3,3,3,1,0
+S052,8,Friends,Talking to someone|Ignoring/Avoidance,Talking to someone,1,4,0,2,4,4,2,1,3,3,3,0,1
+S052,12,Friends,Gaming/Entertainment,Gaming/Entertainment,2,3,0,2,4,3,3,0,3,3,3,1,0
+S053,2,Exams,Music/Relaxation,Music/Relaxation,1,4,0,2,4,3,2,1,3,1,3,1,1
+S053,6,Homework,Talking to someone,Talking to someone,1,4,1,4,3,4,4,1,4,2,4,1,1
+S053,8,Time pressure,Journaling,Journaling,2,4,1,3,3,3,2,1,3,4,2,0,1
+S053,10,Homework,Talking to someone,Talking to someone,2,4,1,3,3,4,3,1,4,2,3,1,1
+S053,12,Time pressure,Talking to someone,Talking to someone,2,5,1,3,3,4,3,1,3,4,3,1,1
+S054,4,Exams,Music/Relaxation|Exercise/Sports|Ignoring/Avoidance,Music/Relaxation,2,4,1,3,3,3,4,1,3,3,4,1,0
+S054,6,Friends,Music/Relaxation,Music/Relaxation,2,4,1,3,3,4,4,1,4,3,4,1,1
+S054,8,Time pressure,Journaling|Deep breathing|Sleeping,Journaling,2,3,1,4,3,4,3,1,4,4,4,1,0
+S054,10,Homework,Journaling|Deep breathing,Journaling,1,4,1,2,4,3,3,1,3,5,3,1,1
+S054,12,Time pressure,Deep breathing|Sleeping,Deep breathing,2,4,1,4,3,3,3,1,3,4,3,1,1
+S055,2,Time pressure,Music/Relaxation,Music/Relaxation,2,3,1,4,2,4,4,1,3,3,4,0,1
+S055,4,Family,Ignoring/Avoidance|Music/Relaxation,Ignoring/Avoidance,2,4,1,4,3,4,3,1,4,3,4,1,1
+S055,6,Exams,Music/Relaxation,Music/Relaxation,2,4,1,4,3,4,3,1,4,2,4,1,0
+S055,8,Homework,Gaming/Entertainment|Journaling,Gaming/Entertainment,1,5,1,5,2,4,4,1,4,3,4,1,1
+S055,10,Friends,Ignoring/Avoidance,Ignoring/Avoidance,0,4,1,4,3,5,4,1,4,3,3,1,0
+S055,12,Family,Exercise/Sports|Music/Relaxation,Exercise/Sports,2,4,1,3,3,3,4,1,3,4,3,1,1
+S056,8,Friends,Talking to someone|Exercise/Sports|Music/Relaxation,Talking to someone,0,5,1,3,3,4,4,1,3,2,2,0,1
+S056,10,Family,Music/Relaxation,Music/Relaxation,2,5,0,2,4,4,2,0,3,4,3,1,1
+S056,12,Exams,Music/Relaxation|Journaling,Music/Relaxation,2,4,0,2,3,3,2,1,4,3,3,0,0
+S057,2,Time pressure,Ignoring/Avoidance|Talking to someone,Ignoring/Avoidance,0,3,1,2,4,3,4,1,3,4,3,1,1
+S057,4,Exams,Exercise/Sports|Talking to someone,Exercise/Sports,1,4,1,4,3,4,3,1,3,4,4,1,1
+S057,6,Teachers,Gaming/Entertainment,Gaming/Entertainment,1,4,1,4,3,4,4,1,4,3,4,1,1
+S057,8,Homework,Deep breathing|Ignoring/Avoidance|Talking to someone,Deep breathing,1,4,1,4,3,5,3,1,4,4,3,1,0
+S057,10,Homework,Journaling|Gaming/Entertainment,Journaling,1,3,1,4,3,4,4,1,4,3,4,1,1
+S057,12,Family,Music/Relaxation,Music/Relaxation,2,4,1,5,2,5,4,1,5,2,4,1,1
+S058,4,Exams,Talking to someone|Music/Relaxation|Gaming/Entertainment,Talking to someone,2,3,1,3,3,3,3,1,3,4,3,1,1
+S058,6,Time pressure,Talking to someone|Exercise/Sports|Gaming/Entertainment,Talking to someone,2,3,1,4,3,4,3,1,3,4,3,0,0
+S058,8,Exams,Gaming/Entertainment|Ignoring/Avoidance,Gaming/Entertainment,0,3,1,3,3,3,3,1,4,3,4,0,1
+S058,10,Family,Journaling|Deep breathing,Journaling,1,3,1,3,2,4,3,1,3,3,3,0,1
+S058,12,Family,Music/Relaxation|Ignoring/Avoidance,Music/Relaxation,2,3,1,4,3,4,4,1,3,3,3,1,0
+S059,2,Time pressure,Sleeping|Music/Relaxation,Sleeping,0,5,1,5,2,4,5,1,5,3,5,0,1
+S059,4,Homework,Music/Relaxation|Exercise/Sports|Gaming/Entertainment,Music/Relaxation,2,4,1,5,2,5,4,1,5,3,5,1,1
+S059,8,Family,Gaming/Entertainment|Music/Relaxation|Talking to someone,Gaming/Entertainment,2,5,1,5,2,5,5,1,5,2,5,1,1
+S059,10,Family,Talking to someone|Gaming/Entertainment,Talking to someone,2,5,1,5,2,5,5,1,5,2,4,1,1
+S060,8,Teachers,Talking to someone,Talking to someone,2,4,1,4,1,4,4,1,4,4,4,1,1
+S060,10,Homework,Talking to someone|Journaling,Talking to someone,2,4,1,3,3,4,3,1,3,3,3,1,1
+S060,12,Family,Talking to someone|Deep breathing|Journaling,Talking to someone,2,4,1,4,3,3,3,1,3,4,3,0,0
+S061,4,Homework,Exercise/Sports|Gaming/Entertainment|Journaling,Exercise/Sports,1,2,1,3,3,4,5,1,3,4,4,0,1
+S061,6,Time pressure,Exercise/Sports,Exercise/Sports,2,3,1,3,3,3,4,1,2,4,4,1,1
+S061,8,Homework,Exercise/Sports|Deep breathing,Exercise/Sports,2,4,0,2,4,3,3,0,4,3,3,0,0
+S061,10,Exams,Exercise/Sports,Exercise/Sports,2,4,1,3,3,4,3,1,3,4,4,1,1
+S061,12,Time pressure,Exercise/Sports|Music/Relaxation,Exercise/Sports,2,2,1,3,3,3,3,0,3,4,4,1,0
+S062,2,Family,Ignoring/Avoidance|Music/Relaxation|Deep breathing,Ignoring/Avoidance,2,4,1,4,3,4,4,1,4,4,4,1,1
+S062,4,Friends,Gaming/Entertainment|Music/Relaxation,Gaming/Entertainment,1,4,1,4,3,4,4,1,4,3,4,1,1
+S062,6,Exams,Gaming/Entertainment|Ignoring/Avoidance,Gaming/Entertainment,2,4,1,4,3,4,4,1,4,4,4,1,1
+S062,8,Homework,Sleeping|Journaling,Sleeping,2,4,1,5,2,5,4,1,5,3,5,0,1
+S062,12,Time pressure,Music/Relaxation|Gaming/Entertainment,Music/Relaxation,2,5,1,5,1,5,5,1,5,3,5,1,1
+S063,2,Teachers,Journaling,Journaling,1,3,1,4,3,4,3,1,3,2,3,1,0
+S063,4,Time pressure,Music/Relaxation|Exercise/Sports,Music/Relaxation,1,5,1,4,2,3,3,1,4,3,4,0,1
+S063,6,Time pressure,Gaming/Entertainment|Journaling,Gaming/Entertainment,1,3,1,4,3,3,3,1,3,3,3,0,1
+S063,8,Time pressure,Music/Relaxation|Deep breathing,Music/Relaxation,1,4,1,2,4,4,2,1,4,2,4,0,1
+S063,10,Friends,Music/Relaxation|Talking to someone,Music/Relaxation,2,5,1,4,3,3,3,1,3,3,3,1,0
+S064,2,Exams,Talking to someone|Gaming/Entertainment,Talking to someone,2,4,1,3,3,4,3,1,3,3,4,1,0
+S064,4,Family,Music/Relaxation|Talking to someone,Music/Relaxation,2,3,1,4,3,4,4,1,3,3,3,1,1
+S064,6,Time pressure,Deep breathing|Exercise/Sports|Gaming/Entertainment,Deep breathing,1,4,1,4,2,3,3,1,4,4,4,1,0
+S064,12,Family,Ignoring/Avoidance|Talking to someone,Ignoring/Avoidance,0,4,1,4,3,3,4,1,3,3,4,0,1
+S065,2,Homework,Music/Relaxation|Ignoring/Avoidance,Music/Relaxation,2,4,1,3,3,4,2,1,3,2,3,1,1
+S065,4,Time pressure,Journaling|Deep breathing,Journaling,1,3,1,2,4,3,2,1,3,3,3,1,0
+S065,6,Exams,Music/Relaxation|Gaming/Entertainment|Talking to someone,Music/Relaxation,2,5,1,4,3,3,4,1,4,3,4,1,1
+S065,8,Exams,Music/Relaxation|Sleeping|Journaling,Music/Relaxation,2,5,1,4,3,3,3,1,3,2,3,0,1
+S065,10,Teachers,Deep breathing,Deep breathing,2,4,1,3,3,4,4,1,3,3,3,0,1
+S065,12,Homework,Talking to someone|Ignoring/Avoidance|Deep breathing,Talking to someone,2,4,1,3,3,4,4,1,4,4,4,1,1
+S066,2,Friends,Ignoring/Avoidance,Ignoring/Avoidance,1,4,1,4,3,4,4,1,4,3,3,1,1
+S066,4,Friends,Deep breathing|Talking to someone|Music/Relaxation,Deep breathing,1,3,1,4,3,4,4,1,4,3,4,1,1
+S066,6,Exams,Exercise/Sports|Talking to someone,Exercise/Sports,1,4,1,4,3,3,3,1,4,2,4,1,0
+S066,8,Homework,Deep breathing|Gaming/Entertainment,Deep breathing,2,4,1,4,3,4,4,1,3,3,4,1,1
+S066,10,Teachers,Journaling|Talking to someone,Journaling,2,4,1,3,2,4,4,1,4,4,4,1,1
+S066,12,Exams,Deep breathing|Sleeping|Journaling,Deep breathing,1,4,1,4,3,4,4,1,4,4,4,0,1
+S067,2,Family,Talking to someone|Exercise/Sports|Music/Relaxation,Talking to someone,1,4,1,4,3,4,4,1,5,3,3,0,0
+S067,6,Friends,Music/Relaxation|Deep breathing|Talking to someone,Music/Relaxation,1,4,1,4,2,4,4,1,3,3,4,1,1
+S067,8,Teachers,Music/Relaxation|Talking to someone|Exercise/Sports,Music/Relaxation,1,4,1,4,2,3,5,1,5,3,4,0,1
+S067,10,Friends,Talking to someone|Journaling|Deep breathing,Talking to someone,1,4,1,4,2,4,4,1,5,2,4,1,1
+S068,2,Family,Ignoring/Avoidance|Gaming/Entertainment,Ignoring/Avoidance,0,2,0,3,3,3,3,1,3,3,3,0,1
+S068,4,Teachers,Music/Relaxation|Gaming/Entertainment,Music/Relaxation,2,3,0,1,4,3,2,0,3,3,3,0,0
+S068,6,Exams,Journaling,Journaling,1,3,1,2,4,2,2,1,3,3,3,1,1
+S068,8,Teachers,Gaming/Entertainment|Talking to someone,Gaming/Entertainment,0,3,0,1,4,3,2,0,2,4,3,0,1
+S068,10,Family,Sleeping|Music/Relaxation,Sleeping,0,2,0,3,3,2,3,0,2,4,2,0,0
+S068,12,Exams,Deep breathing|Sleeping,Deep breathing,2,3,1,2,4,4,2,0,2,3,3,1,0
+S069,2,Friends,Exercise/Sports|Gaming/Entertainment,Exercise/Sports,0,4,1,2,4,3,2,1,3,3,3,1,1
+S069,4,Family,Ignoring/Avoidance|Gaming/Entertainment,Ignoring/Avoidance,1,4,0,2,4,3,3,1,3,3,3,1,1
+S069,6,Teachers,Ignoring/Avoidance|Deep breathing,Ignoring/Avoidance,0,4,1,2,4,4,3,0,3,2,3,0,1
+S069,8,Exams,Talking to someone|Journaling,Talking to someone,2,4,1,2,4,3,3,1,3,3,3,1,1
+S069,12,Family,Music/Relaxation,Music/Relaxation,2,3,1,3,3,3,3,1,3,3,3,1,1
+S070,2,Time pressure,Talking to someone|Deep breathing,Talking to someone,1,4,0,2,4,3,3,0,3,3,3,1,0
+S070,4,Time pressure,Gaming/Entertainment|Ignoring/Avoidance,Gaming/Entertainment,0,2,1,3,4,3,3,1,3,4,3,0,0
+S070,6,Family,Ignoring/Avoidance|Sleeping,Ignoring/Avoidance,0,3,0,1,4,3,3,0,2,4,3,0,1
+S070,8,Teachers,Sleeping|Talking to someone,Sleeping,1,4,0,3,3,3,2,1,3,4,3,1,1
+S070,12,Exams,Music/Relaxation|Exercise/Sports,Music/Relaxation,2,3,1,3,3,3,3,1,2,3,3,1,1
+S071,4,Family,Exercise/Sports|Ignoring/Avoidance,Exercise/Sports,1,4,1,4,3,4,3,1,3,3,3,1,1
+S071,6,Exams,Music/Relaxation|Gaming/Entertainment|Exercise/Sports,Music/Relaxation,1,4,1,4,3,3,3,1,3,3,3,1,1
+S071,8,Time pressure,Sleeping|Ignoring/Avoidance,Sleeping,1,5,1,4,3,3,3,1,4,2,2,1,1
+S071,10,Time pressure,Ignoring/Avoidance|Music/Relaxation|Exercise/Sports,Ignoring/Avoidance,0,5,1,4,2,4,3,1,4,2,3,0,1
+S071,12,Exams,Exercise/Sports|Gaming/Entertainment,Exercise/Sports,2,4,1,3,3,4,2,1,3,2,3,0,1
+S072,2,Exams,Deep breathing|Talking to someone,Deep breathing,2,3,1,3,2,4,4,1,3,3,4,1,1
+S072,4,Exams,Talking to someone|Exercise/Sports,Talking to someone,2,2,1,5,3,4,4,1,4,3,5,1,1
+S072,6,Exams,Gaming/Entertainment|Ignoring/Avoidance,Gaming/Entertainment,0,4,1,3,2,4,4,1,4,3,4,0,1
+S072,8,Friends,Gaming/Entertainment|Ignoring/Avoidance,Gaming/Entertainment,2,4,1,4,2,4,4,1,4,3,5,0,1
+S072,10,Homework,Sleeping|Music/Relaxation|Ignoring/Avoidance,Sleeping,1,3,1,4,2,4,4,1,5,4,4,1,1
+S072,12,Teachers,Music/Relaxation,Music/Relaxation,2,4,1,4,3,4,4,1,4,3,4,0,1
+S073,2,Exams,Deep breathing|Ignoring/Avoidance,Deep breathing,0,4,1,4,2,5,4,1,4,3,4,0,0
+S073,4,Time pressure,Gaming/Entertainment|Talking to someone|Music/Relaxation,Gaming/Entertainment,1,3,1,4,2,4,4,1,4,3,5,1,1
+S073,6,Exams,Ignoring/Avoidance|Deep breathing|Gaming/Entertainment,Ignoring/Avoidance,1,4,1,4,2,4,3,1,4,3,4,1,0
+S073,8,Time pressure,Talking to someone,Talking to someone,2,3,1,4,2,4,4,1,5,3,4,1,1
+S073,10,Family,Gaming/Entertainment|Sleeping|Ignoring/Avoidance,Gaming/Entertainment,1,3,1,4,2,4,5,1,4,3,4,1,1
+S073,12,Teachers,Exercise/Sports|Music/Relaxation,Exercise/Sports,1,4,1,4,2,5,4,1,4,2,4,1,1
+S074,2,Teachers,Ignoring/Avoidance|Journaling,Ignoring/Avoidance,2,4,0,2,4,3,2,0,3,3,3,0,0
+S074,4,Time pressure,Ignoring/Avoidance|Gaming/Entertainment,Ignoring/Avoidance,0,3,0,1,4,4,2,0,2,4,2,0,0
+S074,6,Exams,Gaming/Entertainment|Ignoring/Avoidance,Gaming/Entertainment,2,4,0,3,3,3,3,1,2,4,3,1,0
+S074,8,Homework,Sleeping,Sleeping,0,4,0,3,3,3,2,0,3,3,3,0,1
+S074,10,Exams,Gaming/Entertainment|Talking to someone|Ignoring/Avoidance,Gaming/Entertainment,1,3,0,2,4,3,3,1,4,4,3,1,1
+S074,12,Teachers,Journaling,Journaling,2,4,0,1,4,3,2,1,3,3,3,1,1
+S075,2,Family,Sleeping|Gaming/Entertainment,Sleeping,0,3,1,3,3,4,3,1,3,3,4,0,1
+S075,4,Time pressure,Talking to someone|Exercise/Sports,Talking to someone,2,4,1,4,3,3,3,1,3,2,3,1,1
+S075,6,Friends,Gaming/Entertainment|Exercise/Sports,Gaming/Entertainment,1,3,1,4,3,4,3,1,3,3,3,1,0
+S075,8,Exams,Gaming/Entertainment|Sleeping,Gaming/Entertainment,2,3,1,3,3,4,3,0,3,2,3,1,0
+S075,10,Teachers,Ignoring/Avoidance|Exercise/Sports|Sleeping,Ignoring/Avoidance,0,3,0,3,3,4,3,0,4,3,2,1,0
+S076,2,Time pressure,Gaming/Entertainment|Sleeping,Gaming/Entertainment,0,5,1,4,3,4,4,1,4,3,4,0,1
+S076,4,Teachers,Talking to someone,Talking to someone,2,3,1,4,3,4,3,1,4,2,3,0,1
+S076,6,Homework,Exercise/Sports|Talking to someone|Deep breathing,Exercise/Sports,2,4,1,3,3,4,3,1,4,3,4,1,1
+S076,8,Family,Music/Relaxation|Ignoring/Avoidance|Deep breathing,Music/Relaxation,2,4,1,3,3,4,3,1,3,3,4,0,1
+S076,10,Exams,Music/Relaxation|Deep breathing|Ignoring/Avoidance,Music/Relaxation,2,3,1,3,3,3,4,1,3,3,4,1,0
+S076,12,Family,Talking to someone,Talking to someone,2,3,1,3,3,4,3,1,4,3,4,1,0
+S077,2,Homework,Talking to someone|Deep breathing|Ignoring/Avoidance,Talking to someone,2,4,1,3,4,3,2,1,4,4,4,1,1
+S077,4,Friends,Sleeping|Talking to someone,Sleeping,0,3,1,4,2,4,4,1,3,4,4,0,1
+S077,6,Family,Ignoring/Avoidance|Music/Relaxation,Ignoring/Avoidance,1,4,1,4,3,4,3,1,3,4,3,1,0
+S077,8,Exams,Music/Relaxation,Music/Relaxation,2,4,1,3,2,3,3,1,3,4,4,1,1
+S077,10,Exams,Journaling,Journaling,0,3,1,3,3,3,3,1,3,3,4,0,0
+S077,12,Time pressure,Music/Relaxation|Gaming/Entertainment|Talking to someone,Music/Relaxation,2,3,1,4,3,4,4,1,3,4,4,1,1
+S078,2,Time pressure,Music/Relaxation,Music/Relaxation,2,3,1,3,3,3,4,1,3,3,4,1,1
+S078,4,Teachers,Talking to someone,Talking to someone,1,3,1,3,3,3,4,1,3,4,4,1,1
+S078,6,Time pressure,Music/Relaxation|Deep breathing|Ignoring/Avoidance,Music/Relaxation,2,3,1,3,3,4,4,1,3,5,4,0,1
+S078,8,Family,Talking to someone,Talking to someone,1,3,1,3,3,3,4,1,4,4,4,0,1
+S078,12,Family,Deep breathing|Gaming/Entertainment,Deep breathing,2,3,1,4,3,4,5,1,3,3,4,0,1
+S079,2,Teachers,Ignoring/Avoidance|Gaming/Entertainment,Ignoring/Avoidance,0,2,0,2,4,3,3,0,3,3,3,1,0
+S079,4,Exams,Ignoring/Avoidance|Deep breathing,Ignoring/Avoidance,0,3,0,3,3,3,3,1,3,3,3,0,1
+S079,6,Homework,Ignoring/Avoidance|Exercise/Sports|Music/Relaxation,Ignoring/Avoidance,0,4,1,3,3,4,3,1,3,3,3,1,1
+S079,8,Time pressure,Gaming/Entertainment|Talking to someone|Ignoring/Avoidance,Gaming/Entertainment,1,3,0,2,3,3,3,0,3,3,3,1,0
+S079,10,Family,Ignoring/Avoidance,Ignoring/Avoidance,0,3,0,3,3,3,2,0,3,4,2,0,1
+S079,12,Friends,Gaming/Entertainment|Exercise/Sports|Talking to someone,Gaming/Entertainment,0,3,0,1,4,2,2,0,3,5,3,0,1
+S080,2,Friends,Talking to someone,Talking to someone,1,4,1,4,3,4,4,1,3,3,4,1,1
+S080,4,Friends,Deep breathing|Ignoring/Avoidance,Deep breathing,1,4,1,4,3,4,3,1,5,4,5,1,1
+S080,6,Time pressure,Music/Relaxation|Sleeping|Exercise/Sports,Music/Relaxation,2,4,1,4,3,5,4,1,4,3,3,1,1
+S080,8,Exams,Exercise/Sports|Talking to someone,Exercise/Sports,2,5,1,4,3,4,3,1,4,4,5,1,1
+S080,10,Exams,Music/Relaxation|Talking to someone|Deep breathing,Music/Relaxation,1,4,1,4,2,4,4,1,4,3,4,1,1
+S080,12,Exams,Gaming/Entertainment|Music/Relaxation|Exercise/Sports,Gaming/Entertainment,1,4,1,4,3,4,4,1,5,4,4,1,0
+S081,2,Family,Talking to someone|Gaming/Entertainment,Talking to someone,2,4,1,3,2,4,4,1,3,3,5,1,1
+S081,6,Teachers,Gaming/Entertainment|Talking to someone|Sleeping,Gaming/Entertainment,1,3,1,4,3,4,4,1,4,4,3,1,1
+S081,12,Teachers,Ignoring/Avoidance,Ignoring/Avoidance,1,2,1,4,3,4,4,1,4,4,4,1,1
+S082,4,Time pressure,Gaming/Entertainment|Ignoring/Avoidance,Gaming/Entertainment,1,4,1,2,4,4,2,1,4,3,3,1,1
+S082,6,Homework,Sleeping|Ignoring/Avoidance,Sleeping,0,4,1,3,3,4,3,0,3,3,3,0,0
+S082,8,Exams,Exercise/Sports|Ignoring/Avoidance|Sleeping,Exercise/Sports,0,3,1,3,3,4,3,1,3,4,3,0,1
+S082,12,Time pressure,Ignoring/Avoidance|Talking to someone,Ignoring/Avoidance,2,4,1,3,3,4,3,1,3,4,3,1,1
+S083,4,Exams,Deep breathing,Deep breathing,2,2,1,4,2,3,3,1,4,4,5,0,1
+S083,8,Teachers,Music/Relaxation|Exercise/Sports,Music/Relaxation,2,3,1,4,2,4,4,1,4,4,3,1,1
+S083,12,Time pressure,Deep breathing|Gaming/Entertainment|Journaling,Deep breathing,1,3,1,4,3,4,3,1,4,4,4,1,1
+S084,2,Homework,Ignoring/Avoidance,Ignoring/Avoidance,1,4,1,4,2,4,4,1,4,3,4,0,1
+S084,4,Exams,Music/Relaxation|Gaming/Entertainment,Music/Relaxation,2,4,1,5,1,5,4,1,5,3,5,1,1
+S084,6,Friends,Exercise/Sports|Music/Relaxation|Gaming/Entertainment,Exercise/Sports,2,3,1,4,2,4,4,1,4,2,5,1,1
+S084,8,Time pressure,Deep breathing|Ignoring/Avoidance,Deep breathing,2,4,1,4,2,4,4,1,4,3,5,1,1
+S084,10,Time pressure,Sleeping|Gaming/Entertainment|Exercise/Sports,Sleeping,2,5,1,5,2,5,4,1,4,3,5,1,0
+S084,12,Family,Deep breathing|Sleeping,Deep breathing,2,4,1,4,2,4,4,1,5,3,5,1,1
+S085,2,Teachers,Talking to someone|Music/Relaxation|Ignoring/Avoidance,Talking to someone,2,5,1,4,3,4,3,1,4,3,3,1,1
+S085,4,Exams,Ignoring/Avoidance,Ignoring/Avoidance,1,5,1,3,3,3,3,1,4,3,4,1,1
+S085,6,Homework,Ignoring/Avoidance|Music/Relaxation|Gaming/Entertainment,Ignoring/Avoidance,2,4,1,3,3,4,3,1,3,3,3,0,1
+S085,8,Time pressure,Gaming/Entertainment|Sleeping|Deep breathing,Gaming/Entertainment,1,4,1,3,3,4,3,1,3,3,3,1,1
+S085,10,Friends,Gaming/Entertainment,Gaming/Entertainment,2,4,1,2,4,4,2,0,3,3,2,1,0
+S085,12,Exams,Gaming/Entertainment|Exercise/Sports,Gaming/Entertainment,1,3,1,2,4,3,2,1,3,3,3,1,0
+S086,4,Exams,Ignoring/Avoidance|Journaling|Talking to someone,Ignoring/Avoidance,1,3,1,4,2,3,3,1,4,3,4,1,0
+S086,6,Exams,Talking to someone|Music/Relaxation,Talking to someone,2,3,1,4,3,3,3,1,4,3,4,1,1
+S086,8,Family,Ignoring/Avoidance,Ignoring/Avoidance,0,3,1,2,4,3,2,1,3,3,3,1,0
+S086,10,Exams,Sleeping,Sleeping,1,3,1,4,3,4,3,1,3,4,3,0,0
+S086,12,Family,Ignoring/Avoidance,Ignoring/Avoidance,0,4,1,3,3,4,3,1,3,4,3,0,1
+S087,2,Exams,Exercise/Sports|Music/Relaxation,Exercise/Sports,1,4,1,5,3,4,4,1,4,2,4,1,1
+S087,6,Homework,Talking to someone|Ignoring/Avoidance,Talking to someone,2,4,1,3,3,4,4,1,4,3,4,1,1
+S087,8,Exams,Music/Relaxation|Gaming/Entertainment,Music/Relaxation,2,5,1,4,3,3,4,1,4,3,3,0,1
+S087,10,Family,Gaming/Entertainment,Gaming/Entertainment,2,5,1,3,2,4,3,1,3,3,3,1,1
+S087,12,Homework,Exercise/Sports|Talking to someone,Exercise/Sports,2,4,1,4,2,4,3,1,4,3,4,1,1
+S088,6,Friends,Music/Relaxation|Ignoring/Avoidance,Music/Relaxation,1,3,0,2,4,3,2,0,4,3,3,0,0
+S088,8,Time pressure,Talking to someone|Music/Relaxation|Exercise/Sports,Talking to someone,2,3,0,1,4,4,1,0,2,4,2,1,0
+S088,10,Family,Talking to someone|Deep breathing|Exercise/Sports,Talking to someone,2,5,1,2,5,2,2,1,3,4,3,1,1
+S088,12,Exams,Music/Relaxation|Deep breathing|Exercise/Sports,Music/Relaxation,2,3,0,3,4,3,3,1,3,5,3,1,1
+S089,6,Exams,Sleeping|Exercise/Sports,Sleeping,0,3,1,4,3,4,4,1,4,3,4,0,1
+S089,8,Exams,Music/Relaxation|Talking to someone|Gaming/Entertainment,Music/Relaxation,2,4,1,4,1,4,4,1,4,3,5,1,1
+S089,10,Exams,Ignoring/Avoidance|Talking to someone|Exercise/Sports,Ignoring/Avoidance,1,4,1,4,2,4,4,1,4,3,4,1,1
+S090,2,Homework,Talking to someone|Journaling|Music/Relaxation,Talking to someone,2,3,0,3,3,3,2,1,3,3,3,0,1
+S090,4,Friends,Sleeping|Music/Relaxation,Sleeping,0,3,0,2,4,3,3,1,3,3,3,0,1
+S090,6,Family,Ignoring/Avoidance|Music/Relaxation|Sleeping,Ignoring/Avoidance,0,4,1,3,3,3,3,1,3,4,3,0,1
+S090,8,Exams,Talking to someone,Talking to someone,2,3,0,3,3,3,2,1,3,3,2,1,1
+S090,10,Exams,Exercise/Sports|Talking to someone,Exercise/Sports,2,3,0,1,4,2,3,1,3,3,2,1,1
+S090,12,Homework,Ignoring/Avoidance|Gaming/Entertainment|Music/Relaxation,Ignoring/Avoidance,1,3,0,3,3,3,2,0,3,3,2,1,0
+S091,4,Exams,Ignoring/Avoidance|Gaming/Entertainment,Ignoring/Avoidance,2,4,1,5,2,4,4,1,5,3,4,1,0
+S091,6,Teachers,Ignoring/Avoidance,Ignoring/Avoidance,0,4,1,4,2,4,4,1,4,2,4,0,0
+S091,8,Exams,Ignoring/Avoidance,Ignoring/Avoidance,2,2,1,4,3,4,3,1,4,3,4,1,0
+S091,10,Exams,Music/Relaxation|Deep breathing|Gaming/Entertainment,Music/Relaxation,2,3,1,4,2,4,4,1,4,3,4,1,1
+S091,12,Exams,Exercise/Sports|Music/Relaxation,Exercise/Sports,2,3,1,3,3,4,4,1,4,3,4,1,1
+S092,4,Exams,Deep breathing,Deep breathing,2,3,1,4,2,4,4,1,4,3,4,0,1
+S092,6,Time pressure,Deep breathing|Music/Relaxation,Deep breathing,2,4,1,4,2,4,4,1,4,3,4,1,1
+S092,8,Friends,Music/Relaxation|Gaming/Entertainment,Music/Relaxation,2,4,1,4,2,4,4,1,4,2,4,0,0
+S092,12,Exams,Exercise/Sports|Music/Relaxation,Exercise/Sports,2,3,1,4,2,4,4,1,4,3,4,0,1
+S093,2,Time pressure,Talking to someone|Gaming/Entertainment,Talking to someone,1,3,0,2,4,3,3,0,3,4,3,1,0
+S093,4,Homework,Journaling|Deep breathing,Journaling,1,3,0,2,3,3,3,1,3,3,3,1,1
+S093,6,Homework,Deep breathing|Talking to someone,Deep breathing,1,4,1,3,3,2,3,1,4,4,3,1,1
+S093,10,Family,Talking to someone,Talking to someone,2,3,0,3,3,3,3,0,3,5,3,0,0
+S093,12,Exams,Gaming/Entertainment|Music/Relaxation,Gaming/Entertainment,0,4,0,2,4,2,2,0,3,4,4,1,0
+S094,2,Exams,Talking to someone,Talking to someone,2,3,1,4,3,4,4,1,5,4,4,0,1
+S094,4,Exams,Ignoring/Avoidance,Ignoring/Avoidance,1,3,1,4,3,4,3,1,4,5,4,1,0
+S094,6,Homework,Talking to someone|Deep breathing,Talking to someone,1,3,1,4,3,4,3,1,4,5,4,1,0
+S094,10,Exams,Music/Relaxation|Talking to someone,Music/Relaxation,2,3,1,3,3,4,4,1,4,5,5,1,1
+S094,12,Teachers,Deep breathing|Exercise/Sports|Music/Relaxation,Deep breathing,1,3,1,2,4,4,3,1,3,4,3,0,0
+S095,2,Exams,Sleeping|Talking to someone,Sleeping,2,3,1,3,3,4,3,1,3,3,4,0,0
+S095,6,Friends,Music/Relaxation|Ignoring/Avoidance,Music/Relaxation,1,3,1,4,3,4,4,1,4,3,4,0,0
+S095,8,Homework,Journaling|Deep breathing,Journaling,1,4,1,4,2,4,4,1,4,4,4,1,1
+S095,10,Exams,Gaming/Entertainment|Music/Relaxation|Ignoring/Avoidance,Gaming/Entertainment,1,5,1,4,2,4,4,1,4,4,4,1,1
+S095,12,Teachers,Talking to someone|Music/Relaxation,Talking to someone,1,3,1,4,3,5,4,1,3,3,4,0,0
+S096,2,Teachers,Music/Relaxation|Deep breathing,Music/Relaxation,0,4,1,4,3,4,3,1,3,3,4,0,1
+S096,4,Friends,Music/Relaxation|Exercise/Sports|Deep breathing,Music/Relaxation,2,3,1,4,3,4,4,1,4,3,4,1,0
+S096,8,Homework,Talking to someone|Gaming/Entertainment,Talking to someone,2,4,1,4,2,4,3,1,4,3,3,1,1
+S096,10,Homework,Exercise/Sports|Deep breathing,Exercise/Sports,2,4,1,4,3,4,4,1,3,4,3,1,1
+S096,12,Exams,Gaming/Entertainment|Journaling|Talking to someone,Gaming/Entertainment,0,5,0,1,5,3,2,0,3,4,3,0,0
+S097,4,Exams,Sleeping|Gaming/Entertainment,Sleeping,2,3,1,3,3,3,4,1,3,4,3,0,1
+S097,8,Family,Deep breathing|Exercise/Sports,Deep breathing,2,4,1,3,3,4,4,1,3,4,4,1,1
+S097,10,Exams,Journaling|Music/Relaxation|Deep breathing,Journaling,1,3,1,3,3,3,3,1,3,3,3,1,1
+S097,12,Exams,Talking to someone|Deep breathing,Talking to someone,2,4,1,4,2,4,4,1,4,4,4,0,1
+S098,2,Family,Ignoring/Avoidance,Ignoring/Avoidance,0,2,1,3,3,4,3,1,3,4,3,1,1
+S098,4,Teachers,Ignoring/Avoidance|Talking to someone,Ignoring/Avoidance,1,3,1,3,3,3,3,1,3,4,3,1,1
+S098,6,Exams,Deep breathing,Deep breathing,0,4,0,1,5,3,3,0,3,3,3,0,0
+S098,8,Teachers,Music/Relaxation|Talking to someone|Gaming/Entertainment,Music/Relaxation,2,3,0,1,4,3,2,0,3,3,3,1,1
+S099,2,Time pressure,Journaling|Ignoring/Avoidance,Journaling,1,3,1,4,2,5,4,1,4,4,4,1,1
+S099,4,Family,Exercise/Sports|Music/Relaxation,Exercise/Sports,2,1,1,4,2,4,4,1,4,3,4,0,0
+S099,6,Exams,Deep breathing,Deep breathing,2,3,1,5,1,5,4,1,5,3,5,0,1
+S099,8,Homework,Gaming/Entertainment,Gaming/Entertainment,1,2,1,4,2,4,3,1,3,3,4,1,1
+S099,10,Friends,Deep breathing|Ignoring/Avoidance,Deep breathing,1,4,1,4,3,5,4,1,4,3,5,1,1
+S099,12,Homework,Gaming/Entertainment|Ignoring/Avoidance|Journaling,Gaming/Entertainment,1,3,1,4,1,4,5,1,4,2,5,1,1
+S100,2,Exams,Deep breathing|Music/Relaxation|Gaming/Entertainment,Deep breathing,1,4,1,4,2,5,4,1,4,4,4,1,1
+S100,4,Exams,Music/Relaxation,Music/Relaxation,2,3,1,4,2,4,4,1,4,4,5,0,1
+S100,6,Time pressure,Ignoring/Avoidance|Exercise/Sports,Ignoring/Avoidance,1,3,1,4,2,4,5,1,4,3,5,1,0
+S100,8,Exams,Talking to someone,Talking to someone,1,4,1,4,2,4,4,1,4,3,5,1,1
+S100,10,Homework,Journaling|Gaming/Entertainment,Journaling,1,4,1,4,2,4,4,1,4,2,5,1,0
+S100,12,Friends,Talking to someone|Sleeping,Talking to someone,2,4,1,4,2,4,4,1,5,3,5,0,0
+S101,2,Friends,Music/Relaxation|Talking to someone,Music/Relaxation,1,2,1,3,2,4,4,1,3,4,4,1,1
+S101,4,Family,Gaming/Entertainment|Exercise/Sports,Gaming/Entertainment,2,3,1,4,2,3,4,1,4,4,4,1,0
+S101,6,Exams,Deep breathing|Gaming/Entertainment,Deep breathing,2,4,1,4,2,4,4,1,3,2,4,1,0
+S101,8,Exams,Sleeping|Talking to someone|Gaming/Entertainment,Sleeping,0,3,1,3,3,4,3,1,4,3,4,0,1
+S101,10,Homework,Gaming/Entertainment,Gaming/Entertainment,1,3,1,3,2,4,3,1,4,3,5,1,1
+S101,12,Friends,Ignoring/Avoidance|Music/Relaxation,Ignoring/Avoidance,0,3,1,4,3,4,3,1,4,3,4,0,1
+S102,4,Homework,Sleeping|Ignoring/Avoidance,Sleeping,2,3,1,4,3,4,4,1,5,3,4,0,1
+S102,6,Homework,Journaling|Gaming/Entertainment,Journaling,1,3,1,5,3,5,4,1,5,4,5,1,1
+S102,8,Exams,Ignoring/Avoidance,Ignoring/Avoidance,1,4,1,5,2,4,4,1,5,3,5,1,1
+S102,10,Time pressure,Talking to someone|Gaming/Entertainment,Talking to someone,2,4,1,4,2,5,4,1,5,4,4,0,1
+S102,12,Family,Music/Relaxation|Journaling,Music/Relaxation,2,4,1,4,2,4,4,1,5,5,5,1,0
+S103,2,Teachers,Talking to someone|Ignoring/Avoidance|Gaming/Entertainment,Talking to someone,2,3,1,3,3,3,3,1,2,3,3,1,1
+S103,4,Homework,Deep breathing|Sleeping,Deep breathing,1,3,0,3,3,3,4,0,3,3,3,0,0
+S103,6,Homework,Journaling|Talking to someone|Deep breathing,Journaling,1,2,0,1,4,3,3,0,3,4,4,0,1
+S103,10,Time pressure,Sleeping,Sleeping,2,2,0,2,4,3,3,0,3,4,3,1,0
+S103,12,Time pressure,Gaming/Entertainment,Gaming/Entertainment,1,2,1,3,3,3,2,0,3,3,2,0,0
+S104,2,Homework,Deep breathing,Deep breathing,2,5,1,4,2,4,4,1,4,4,4,0,1
+S104,6,Teachers,Talking to someone|Gaming/Entertainment,Talking to someone,2,5,1,4,2,4,4,1,4,3,4,1,1
+S104,10,Exams,Exercise/Sports|Talking to someone,Exercise/Sports,2,5,1,4,3,4,5,1,4,4,4,1,1
+S104,12,Homework,Journaling,Journaling,2,4,1,4,3,4,4,1,4,3,4,1,1
+S105,2,Family,Exercise/Sports|Ignoring/Avoidance,Exercise/Sports,2,4,1,3,2,5,4,1,4,2,5,0,1
+S105,4,Friends,Ignoring/Avoidance|Music/Relaxation|Exercise/Sports,Ignoring/Avoidance,0,4,1,4,3,4,3,1,4,3,4,0,1
+S105,6,Exams,Ignoring/Avoidance|Gaming/Entertainment,Ignoring/Avoidance,1,2,1,5,2,5,5,1,4,4,4,1,1
+S105,8,Exams,Ignoring/Avoidance|Music/Relaxation,Ignoring/Avoidance,0,4,1,4,2,5,4,1,4,4,4,0,1
+S105,10,Teachers,Ignoring/Avoidance|Gaming/Entertainment|Music/Relaxation,Ignoring/Avoidance,1,3,1,5,2,4,5,1,4,3,5,1,1
+S105,12,Homework,Ignoring/Avoidance|Sleeping,Ignoring/Avoidance,1,3,1,4,3,4,4,1,4,3,4,1,1
+S106,2,Exams,Gaming/Entertainment,Gaming/Entertainment,1,3,1,4,2,4,5,1,4,3,4,0,0
+S106,4,Family,Exercise/Sports|Deep breathing,Exercise/Sports,2,4,1,4,3,4,4,1,4,4,5,0,1
+S106,6,Exams,Journaling|Exercise/Sports|Talking to someone,Journaling,1,3,1,4,2,5,4,1,4,3,4,0,1
+S106,8,Homework,Exercise/Sports,Exercise/Sports,2,4,1,4,3,4,4,1,4,3,5,1,1
+S106,10,Exams,Music/Relaxation|Journaling|Gaming/Entertainment,Music/Relaxation,2,4,1,4,3,4,4,1,4,4,4,1,1
+S106,12,Exams,Music/Relaxation|Exercise/Sports,Music/Relaxation,2,3,1,5,2,5,5,1,4,3,4,1,1
+S107,4,Exams,Journaling|Ignoring/Avoidance|Talking to someone,Journaling,1,3,1,3,3,3,3,1,4,2,4,0,1
+S107,6,Family,Talking to someone|Ignoring/Avoidance,Talking to someone,2,4,1,2,4,4,3,1,4,3,4,1,1
+S107,8,Exams,Gaming/Entertainment,Gaming/Entertainment,0,4,1,4,2,5,4,1,4,3,3,0,1
+S107,10,Family,Music/Relaxation|Gaming/Entertainment,Music/Relaxation,2,4,1,2,4,3,2,1,4,2,3,1,1
+S107,12,Friends,Deep breathing|Ignoring/Avoidance,Deep breathing,1,4,1,2,3,3,3,1,3,3,2,1,1
+S108,2,Teachers,Gaming/Entertainment|Sleeping|Exercise/Sports,Gaming/Entertainment,1,4,1,5,2,5,4,1,4,3,4,1,1
+S108,4,Homework,Gaming/Entertainment,Gaming/Entertainment,1,3,1,4,2,4,4,1,4,3,4,1,0
+S108,8,Friends,Ignoring/Avoidance,Ignoring/Avoidance,0,3,1,5,2,4,4,1,4,3,5,0,1
+S108,10,Exams,Sleeping,Sleeping,1,4,1,5,2,4,4,1,5,3,4,0,1
+S108,12,Homework,Exercise/Sports,Exercise/Sports,2,4,1,4,2,4,4,1,4,3,5,1,1
+S109,2,Exams,Exercise/Sports|Journaling,Exercise/Sports,2,3,1,3,2,3,3,1,3,3,3,1,1
+S109,4,Friends,Exercise/Sports|Talking to someone,Exercise/Sports,2,4,1,4,3,4,3,1,3,3,3,1,0
+S109,6,Time pressure,Talking to someone|Sleeping,Talking to someone,2,3,1,3,3,4,3,1,3,4,3,1,1
+S109,8,Homework,Music/Relaxation|Exercise/Sports|Sleeping,Music/Relaxation,2,4,1,3,3,3,3,1,3,3,3,0,1
+S109,10,Family,Journaling|Exercise/Sports,Journaling,1,4,1,4,3,4,4,1,3,3,3,0,1
+S109,12,Friends,Journaling|Talking to someone|Sleeping,Journaling,1,4,1,3,3,4,3,1,3,4,4,1,1
+S110,2,Family,Gaming/Entertainment,Gaming/Entertainment,1,3,1,4,3,4,3,1,4,3,4,1,0
+S110,4,Homework,Gaming/Entertainment|Music/Relaxation|Talking to someone,Gaming/Entertainment,2,4,1,4,3,4,3,1,4,3,4,1,1
+S110,6,Time pressure,Ignoring/Avoidance|Deep breathing,Ignoring/Avoidance,2,3,1,4,2,4,3,1,3,3,4,1,1
+S110,12,Homework,Sleeping|Gaming/Entertainment|Talking to someone,Sleeping,1,4,1,4,2,4,4,1,4,2,5,1,1
+S111,2,Homework,Music/Relaxation|Gaming/Entertainment,Music/Relaxation,2,4,1,4,2,4,4,1,3,3,4,0,1
+S111,4,Teachers,Gaming/Entertainment|Music/Relaxation,Gaming/Entertainment,2,4,1,4,3,4,4,1,5,2,4,1,0
+S111,6,Exams,Deep breathing|Exercise/Sports,Deep breathing,2,4,1,4,2,4,4,1,4,3,4,1,1
+S111,10,Homework,Exercise/Sports|Talking to someone,Exercise/Sports,2,4,1,3,2,4,4,1,4,4,4,1,1
+S111,12,Teachers,Talking to someone|Ignoring/Avoidance,Talking to someone,2,4,1,3,3,4,3,1,4,3,4,1,1
+S112,2,Homework,Gaming/Entertainment|Exercise/Sports|Music/Relaxation,Gaming/Entertainment,1,3,0,3,3,3,3,0,3,3,3,0,1
+S112,4,Homework,Talking to someone|Deep breathing,Talking to someone,2,3,1,3,3,3,2,1,3,3,3,1,1
+S112,6,Teachers,Journaling|Ignoring/Avoidance|Music/Relaxation,Journaling,1,4,1,3,2,3,3,1,4,2,3,1,1
+S112,10,Friends,Exercise/Sports|Talking to someone,Exercise/Sports,0,4,1,4,3,4,3,0,4,3,3,0,1
+S112,12,Homework,Talking to someone|Music/Relaxation,Talking to someone,2,4,1,4,2,4,4,1,3,3,3,0,1
+S113,2,Exams,Talking to someone|Deep breathing,Talking to someone,2,4,1,3,4,4,4,1,3,5,3,1,1
+S113,6,Time pressure,Journaling|Exercise/Sports,Journaling,1,4,0,3,3,3,3,0,3,4,4,0,0
+S113,8,Exams,Gaming/Entertainment|Talking to someone,Gaming/Entertainment,2,4,1,4,3,3,4,1,4,4,3,0,1
+S113,10,Family,Deep breathing,Deep breathing,1,4,1,3,3,3,3,1,3,3,3,1,1
+S113,12,Homework,Talking to someone|Journaling,Talking to someone,2,4,1,3,2,4,3,1,4,4,3,1,0
+S114,4,Time pressure,Music/Relaxation|Talking to someone,Music/Relaxation,2,4,1,3,3,4,3,1,3,2,3,1,1
+S114,6,Exams,Gaming/Entertainment|Exercise/Sports|Deep breathing,Gaming/Entertainment,0,5,1,4,3,4,4,1,4,3,4,0,0
+S114,8,Time pressure,Music/Relaxation|Exercise/Sports|Talking to someone,Music/Relaxation,2,5,1,3,4,4,2,1,3,2,3,1,0
+S114,10,Family,Music/Relaxation|Sleeping,Music/Relaxation,1,5,1,3,4,4,4,1,4,3,4,1,1
+S114,12,Friends,Deep breathing|Music/Relaxation,Deep breathing,1,4,1,3,3,4,3,1,4,3,4,1,1
+S115,2,Exams,Exercise/Sports,Exercise/Sports,1,3,0,3,3,3,3,1,3,4,3,1,0
+S115,4,Homework,Talking to someone,Talking to someone,2,3,1,2,4,2,3,1,3,4,4,1,1
+S115,6,Exams,Talking to someone,Talking to someone,0,5,0,3,3,3,3,0,3,4,4,0,1
+S115,8,Homework,Talking to someone|Music/Relaxation,Talking to someone,2,4,1,3,3,4,3,0,3,4,3,0,1
+S115,12,Time pressure,Exercise/Sports|Deep breathing,Exercise/Sports,1,4,1,4,3,3,4,1,3,4,4,0,1
+S116,2,Time pressure,Ignoring/Avoidance|Music/Relaxation|Talking to someone,Ignoring/Avoidance,1,3,1,4,3,4,3,1,3,4,4,1,1
+S116,4,Family,Ignoring/Avoidance,Ignoring/Avoidance,1,4,1,4,3,4,4,1,3,5,3,1,1
+S116,6,Exams,Gaming/Entertainment|Ignoring/Avoidance|Deep breathing,Gaming/Entertainment,2,3,1,4,3,5,3,1,3,4,3,1,1
+S116,8,Time pressure,Sleeping|Gaming/Entertainment|Music/Relaxation,Sleeping,0,3,1,3,3,3,2,1,4,3,3,1,1
+S116,12,Homework,Music/Relaxation|Exercise/Sports,Music/Relaxation,1,4,1,4,3,4,4,1,4,4,4,1,0
+S117,2,Time pressure,Ignoring/Avoidance|Music/Relaxation|Gaming/Entertainment,Ignoring/Avoidance,2,3,1,3,3,3,3,1,3,3,3,0,0
+S117,4,Exams,Journaling|Deep breathing,Journaling,2,2,1,4,3,3,3,1,4,4,3,0,1
+S117,6,Friends,Gaming/Entertainment|Deep breathing,Gaming/Entertainment,1,3,1,3,3,3,3,1,3,5,4,1,1
+S117,8,Family,Sleeping,Sleeping,1,3,1,3,3,2,3,1,4,4,3,1,1
+S117,10,Exams,Gaming/Entertainment|Exercise/Sports|Talking to someone,Gaming/Entertainment,0,2,0,3,3,3,3,0,3,3,3,0,0
+S117,12,Exams,Ignoring/Avoidance|Gaming/Entertainment|Deep breathing,Ignoring/Avoidance,1,3,0,3,3,3,3,0,3,3,3,0,0
+S118,2,Exams,Journaling|Talking to someone,Journaling,2,4,0,2,4,3,3,0,3,4,3,0,1
+S118,4,Exams,Deep breathing|Gaming/Entertainment|Talking to someone,Deep breathing,2,5,1,3,3,4,3,0,3,3,4,0,0
+S118,8,Friends,Gaming/Entertainment|Exercise/Sports,Gaming/Entertainment,1,4,0,2,4,3,3,0,3,4,3,1,0
+S118,10,Family,Music/Relaxation|Exercise/Sports,Music/Relaxation,1,5,1,4,3,4,3,1,3,4,3,1,1
+S118,12,Time pressure,Talking to someone|Exercise/Sports,Talking to someone,1,5,1,2,4,4,3,1,3,3,3,1,1
+S119,2,Teachers,Deep breathing,Deep breathing,1,4,0,2,4,3,3,1,3,3,3,1,0
+S119,4,Family,Talking to someone|Music/Relaxation,Talking to someone,1,5,0,3,3,4,3,1,3,3,3,1,1
+S119,6,Exams,Music/Relaxation|Sleeping,Music/Relaxation,2,4,0,1,4,2,2,0,3,3,3,0,0
+S119,10,Friends,Talking to someone|Gaming/Entertainment|Deep breathing,Talking to someone,2,4,0,3,3,3,2,0,3,3,3,1,0
+S119,12,Teachers,Exercise/Sports|Talking to someone,Exercise/Sports,2,4,1,2,3,3,2,1,3,3,3,1,1
+S120,2,Friends,Deep breathing|Music/Relaxation,Deep breathing,2,5,1,3,3,3,3,1,3,4,3,1,1
+S120,4,Homework,Gaming/Entertainment,Gaming/Entertainment,2,4,1,4,3,4,3,1,4,3,3,1,1
+S120,6,Family,Music/Relaxation|Gaming/Entertainment|Exercise/Sports,Music/Relaxation,1,3,1,4,3,4,4,1,3,3,4,1,1
+S120,8,Homework,Talking to someone|Exercise/Sports|Gaming/Entertainment,Talking to someone,2,4,1,4,2,4,4,1,4,2,4,0,1
+S120,10,Time pressure,Talking to someone|Ignoring/Avoidance,Talking to someone,2,5,1,4,3,3,3,1,4,2,3,1,0
+S121,2,Time pressure,Gaming/Entertainment|Ignoring/Avoidance|Exercise/Sports,Gaming/Entertainment,1,4,1,2,4,3,3,1,4,4,4,1,1
+S121,4,Teachers,Sleeping,Sleeping,0,4,1,4,3,4,3,1,3,3,4,0,1
+S121,6,Family,Gaming/Entertainment|Talking to someone,Gaming/Entertainment,1,3,1,4,2,3,4,1,4,3,4,1,0
+S121,8,Homework,Talking to someone|Ignoring/Avoidance|Music/Relaxation,Talking to someone,2,4,1,3,3,3,3,1,3,3,4,1,0
+S121,10,Exams,Ignoring/Avoidance|Music/Relaxation|Gaming/Entertainment,Ignoring/Avoidance,0,4,1,4,3,4,4,1,4,4,4,0,1
+S121,12,Exams,Sleeping,Sleeping,1,3,1,3,2,4,4,1,3,3,3,0,1
+S122,2,Exams,Exercise/Sports|Deep breathing,Exercise/Sports,1,3,1,4,3,4,4,1,3,5,3,1,0
+S122,4,Exams,Deep breathing|Exercise/Sports,Deep breathing,0,3,1,3,3,3,3,1,3,4,4,0,0
+S122,6,Homework,Journaling|Sleeping,Journaling,2,3,1,4,3,3,4,1,4,3,4,1,1
+S122,8,Friends,Sleeping|Journaling,Sleeping,1,4,1,4,3,4,3,1,5,4,4,1,1
+S122,10,Teachers,Music/Relaxation|Ignoring/Avoidance|Sleeping,Music/Relaxation,2,4,1,4,3,5,3,1,3,4,4,1,0
+S122,12,Exams,Ignoring/Avoidance,Ignoring/Avoidance,2,4,1,4,3,4,3,1,4,5,4,1,1
+S123,2,Family,Music/Relaxation,Music/Relaxation,1,3,1,4,2,4,4,1,4,3,5,0,1
+S123,4,Exams,Deep breathing|Music/Relaxation|Gaming/Entertainment,Deep breathing,2,4,1,3,2,3,4,1,3,4,4,1,1
+S123,6,Homework,Talking to someone|Deep breathing,Talking to someone,2,3,1,4,1,4,4,1,4,3,4,1,1
+S123,8,Homework,Music/Relaxation|Deep breathing,Music/Relaxation,2,3,1,4,3,4,4,1,3,3,4,1,1
+S123,10,Homework,Sleeping|Deep breathing|Music/Relaxation,Sleeping,1,4,1,3,3,3,4,1,3,4,4,1,1
+S123,12,Time pressure,Exercise/Sports,Exercise/Sports,2,4,1,4,2,3,4,1,3,4,4,1,0
+S124,2,Family,Deep breathing,Deep breathing,2,3,1,4,2,4,4,1,3,3,4,1,0
+S124,4,Teachers,Talking to someone|Ignoring/Avoidance,Talking to someone,2,2,1,4,2,3,4,1,4,3,4,1,1
+S124,6,Exams,Music/Relaxation|Gaming/Entertainment,Music/Relaxation,2,3,1,4,3,5,4,1,4,5,4,1,1
+S124,10,Exams,Gaming/Entertainment,Gaming/Entertainment,2,4,1,4,1,4,5,1,4,3,4,1,1
+S124,12,Time pressure,Music/Relaxation|Talking to someone,Music/Relaxation,1,3,1,4,2,4,5,1,4,4,5,1,1
+S125,2,Friends,Ignoring/Avoidance|Talking to someone|Music/Relaxation,Ignoring/Avoidance,2,4,0,2,4,3,3,0,3,4,2,1,0
+S125,4,Family,Deep breathing,Deep breathing,2,4,1,3,3,4,3,1,3,3,3,1,1
+S125,6,Exams,Talking to someone|Sleeping|Exercise/Sports,Talking to someone,2,4,1,3,2,4,3,1,3,3,3,1,0
+S125,10,Exams,Music/Relaxation|Talking to someone|Journaling,Music/Relaxation,2,3,1,3,3,4,4,1,3,4,3,1,0
+S125,12,Exams,Talking to someone|Exercise/Sports,Talking to someone,2,4,1,3,2,4,3,1,4,5,3,0,1
+S126,4,Time pressure,Music/Relaxation|Deep breathing,Music/Relaxation,2,3,1,4,3,4,3,1,4,3,3,1,1
+S126,6,Family,Exercise/Sports|Music/Relaxation|Ignoring/Avoidance,Exercise/Sports,2,3,1,4,2,3,4,1,3,4,3,1,1
+S126,12,Time pressure,Talking to someone,Talking to someone,2,3,1,4,3,3,3,1,4,3,3,0,1
+S127,4,Friends,Talking to someone|Gaming/Entertainment,Talking to someone,2,3,0,2,4,3,2,0,3,4,2,1,1
+S127,6,Friends,Ignoring/Avoidance|Gaming/Entertainment,Ignoring/Avoidance,1,4,1,2,4,4,3,1,3,3,2,1,1
+S127,10,Homework,Journaling,Journaling,2,4,1,2,4,3,3,1,3,3,3,1,0
+S127,12,Time pressure,Journaling|Music/Relaxation|Ignoring/Avoidance,Journaling,2,4,1,3,3,4,3,1,3,4,4,1,1
+S128,4,Family,Sleeping|Gaming/Entertainment|Ignoring/Avoidance,Sleeping,1,4,1,4,3,3,3,1,4,3,4,0,0
+S128,8,Exams,Music/Relaxation|Sleeping,Music/Relaxation,2,3,1,4,2,5,4,1,4,4,3,1,1
+S128,10,Exams,Music/Relaxation|Gaming/Entertainment,Music/Relaxation,2,3,1,4,3,4,3,1,4,3,4,0,0
+S129,2,Homework,Gaming/Entertainment|Deep breathing,Gaming/Entertainment,2,4,0,3,3,3,3,0,3,2,3,1,0
+S129,4,Time pressure,Ignoring/Avoidance|Journaling,Ignoring/Avoidance,0,3,0,3,3,3,3,1,3,4,2,0,1
+S129,6,Time pressure,Exercise/Sports,Exercise/Sports,1,4,0,2,4,3,3,0,2,3,3,1,0
+S129,10,Family,Deep breathing|Music/Relaxation,Deep breathing,2,4,0,3,3,3,3,0,3,4,2,0,0
+S129,12,Homework,Music/Relaxation,Music/Relaxation,2,5,1,3,3,4,3,1,2,3,3,1,1
+S130,2,Exams,Exercise/Sports,Exercise/Sports,2,5,1,4,2,5,4,1,4,4,5,1,1
+S130,4,Exams,Music/Relaxation,Music/Relaxation,2,4,1,4,3,4,4,1,4,3,4,1,1
+S130,6,Exams,Deep breathing|Journaling,Deep breathing,2,4,1,4,3,4,4,1,4,4,4,1,1
+S130,8,Family,Music/Relaxation|Sleeping,Music/Relaxation,2,5,1,4,2,5,4,1,4,3,5,1,1
+S130,12,Time pressure,Music/Relaxation|Talking to someone|Journaling,Music/Relaxation,1,4,1,5,2,4,4,1,4,4,4,1,1
+S131,2,Friends,Gaming/Entertainment|Journaling,Gaming/Entertainment,2,3,1,3,3,4,3,1,2,4,3,0,1
+S131,6,Family,Deep breathing|Sleeping,Deep breathing,1,3,1,3,3,3,4,1,3,4,3,0,1
+S131,8,Time pressure,Talking to someone|Gaming/Entertainment,Talking to someone,0,3,1,3,3,3,4,1,3,4,2,0,1
+S131,12,Exams,Gaming/Entertainment|Deep breathing,Gaming/Entertainment,1,4,1,3,3,3,3,1,4,3,4,1,0
+S132,2,Homework,Talking to someone,Talking to someone,1,4,1,5,2,4,4,1,4,3,3,1,1
+S132,4,Homework,Exercise/Sports|Music/Relaxation|Talking to someone,Exercise/Sports,1,4,1,3,3,4,2,1,4,3,4,1,0
+S132,6,Exams,Journaling|Exercise/Sports,Journaling,2,5,0,4,3,4,4,1,4,3,3,1,1
+S132,8,Exams,Exercise/Sports|Ignoring/Avoidance,Exercise/Sports,2,5,1,4,2,5,4,1,4,3,3,0,1
+S132,10,Time pressure,Music/Relaxation|Exercise/Sports,Music/Relaxation,2,4,1,4,3,4,3,1,4,2,4,0,1
+S133,2,Exams,Ignoring/Avoidance|Gaming/Entertainment|Talking to someone,Ignoring/Avoidance,2,3,1,5,1,4,5,1,5,4,5,1,1
+S133,4,Exams,Ignoring/Avoidance,Ignoring/Avoidance,0,3,1,4,2,5,5,1,4,4,4,0,1
+S133,6,Exams,Deep breathing,Deep breathing,2,4,1,4,2,5,5,1,4,3,5,0,1
+S133,8,Teachers,Ignoring/Avoidance|Talking to someone,Ignoring/Avoidance,1,4,1,4,2,5,4,1,4,4,5,1,0
+S133,10,Exams,Ignoring/Avoidance|Exercise/Sports|Gaming/Entertainment,Ignoring/Avoidance,1,4,1,4,2,5,5,1,4,4,5,1,1
+S133,12,Time pressure,Ignoring/Avoidance,Ignoring/Avoidance,0,4,1,5,2,5,5,1,5,3,5,0,0
+S134,2,Teachers,Sleeping|Talking to someone|Exercise/Sports,Sleeping,2,4,1,4,2,3,4,1,4,3,4,1,1
+S134,8,Friends,Exercise/Sports|Talking to someone,Exercise/Sports,2,3,1,4,3,4,3,1,3,3,4,1,1
+S134,10,Family,Sleeping|Gaming/Entertainment,Sleeping,0,4,1,3,3,4,3,1,4,3,4,0,1
+S134,12,Teachers,Exercise/Sports|Talking to someone,Exercise/Sports,2,3,1,3,3,4,3,1,4,3,4,1,1
+S135,2,Time pressure,Music/Relaxation|Talking to someone,Music/Relaxation,2,3,0,3,3,4,2,0,3,3,3,0,0
+S135,4,Friends,Talking to someone|Music/Relaxation,Talking to someone,2,4,1,3,3,3,3,1,3,4,3,0,1
+S135,10,Exams,Sleeping|Exercise/Sports|Music/Relaxation,Sleeping,2,4,0,2,4,3,3,0,3,3,2,1,1
+S135,12,Family,Gaming/Entertainment|Ignoring/Avoidance|Talking to someone,Gaming/Entertainment,2,4,1,3,3,4,2,1,3,3,3,1,1
+S136,2,Exams,Exercise/Sports|Deep breathing|Gaming/Entertainment,Exercise/Sports,1,4,1,4,3,4,4,1,4,3,4,1,1
+S136,4,Family,Deep breathing|Ignoring/Avoidance,Deep breathing,2,4,1,4,2,4,4,1,4,2,4,1,1
+S136,6,Teachers,Music/Relaxation|Journaling,Music/Relaxation,2,3,1,4,3,4,4,1,5,3,4,0,1
+S136,8,Exams,Deep breathing|Ignoring/Avoidance,Deep breathing,2,3,1,4,2,4,4,1,4,3,3,1,1
+S136,10,Teachers,Sleeping|Music/Relaxation,Sleeping,2,3,1,4,3,5,4,1,4,3,3,1,1
+S137,2,Time pressure,Talking to someone,Talking to someone,2,4,1,4,3,4,4,1,4,4,3,1,1
+S137,4,Time pressure,Music/Relaxation|Talking to someone|Deep breathing,Music/Relaxation,0,3,1,4,2,4,4,1,3,4,4,0,1
+S137,6,Exams,Journaling|Talking to someone|Music/Relaxation,Journaling,1,3,1,3,3,4,4,1,3,3,4,0,0
+S137,8,Teachers,Deep breathing,Deep breathing,1,5,1,4,3,3,4,1,4,3,4,1,1
+S137,10,Family,Talking to someone|Music/Relaxation|Exercise/Sports,Talking to someone,1,4,1,3,3,4,3,1,3,2,3,1,1
+S137,12,Family,Ignoring/Avoidance|Music/Relaxation|Talking to someone,Ignoring/Avoidance,0,4,1,3,3,3,4,1,3,3,4,0,1
+S138,2,Exams,Deep breathing|Exercise/Sports|Talking to someone,Deep breathing,1,3,1,4,2,3,3,1,4,3,4,1,1
+S138,4,Homework,Talking to someone|Music/Relaxation,Talking to someone,2,4,1,4,3,4,4,1,4,3,4,0,1
+S138,6,Exams,Music/Relaxation,Music/Relaxation,2,4,1,4,3,4,3,1,4,3,3,1,0
+S138,8,Exams,Exercise/Sports|Gaming/Entertainment,Exercise/Sports,1,3,1,4,3,3,4,1,4,3,4,0,0
+S138,10,Exams,Talking to someone,Talking to someone,2,5,0,4,3,3,4,1,4,4,4,0,1
+S138,12,Time pressure,Music/Relaxation|Journaling,Music/Relaxation,2,4,1,3,3,3,4,1,3,3,3,1,1
+S139,2,Exams,Music/Relaxation|Deep breathing,Music/Relaxation,2,3,1,4,3,4,4,1,4,5,4,1,1
+S139,4,Exams,Deep breathing|Sleeping,Deep breathing,2,3,1,4,2,3,4,1,4,4,5,1,1
+S139,6,Friends,Sleeping|Exercise/Sports,Sleeping,2,2,1,4,3,5,4,1,3,4,4,1,1
+S139,8,Homework,Talking to someone,Talking to someone,2,3,1,4,2,4,4,1,4,4,4,1,1
+S139,10,Homework,Gaming/Entertainment|Ignoring/Avoidance|Music/Relaxation,Gaming/Entertainment,1,3,1,4,3,4,4,1,3,4,4,1,1
+S139,12,Homework,Music/Relaxation|Ignoring/Avoidance|Exercise/Sports,Music/Relaxation,0,3,1,4,2,4,4,1,4,4,4,0,1
+S140,2,Family,Talking to someone|Exercise/Sports|Deep breathing,Talking to someone,1,4,1,4,3,4,3,1,4,3,3,1,0
+S140,4,Homework,Talking to someone|Exercise/Sports,Talking to someone,1,4,1,2,4,4,2,1,3,3,3,1,1
+S140,6,Homework,Deep breathing|Ignoring/Avoidance,Deep breathing,2,4,1,3,3,3,3,1,3,3,3,1,0
+S140,8,Exams,Talking to someone|Deep breathing,Talking to someone,2,5,0,3,3,3,2,0,3,3,4,1,0
+S140,10,Homework,Music/Relaxation|Sleeping,Music/Relaxation,2,4,1,2,4,4,2,1,3,3,2,1,1
+S140,12,Homework,Gaming/Entertainment,Gaming/Entertainment,2,5,0,3,3,3,2,1,3,2,2,1,1
+S141,2,Exams,Gaming/Entertainment,Gaming/Entertainment,1,4,1,2,4,3,3,1,2,2,2,1,1
+S141,4,Time pressure,Exercise/Sports|Talking to someone|Ignoring/Avoidance,Exercise/Sports,2,3,0,3,3,3,3,0,2,3,2,1,1
+S141,8,Friends,Ignoring/Avoidance,Ignoring/Avoidance,0,3,0,2,4,3,2,0,3,3,3,1,1
+S141,10,Exams,Talking to someone|Ignoring/Avoidance,Talking to someone,2,3,0,3,3,4,3,0,2,3,2,0,1
+S141,12,Teachers,Ignoring/Avoidance|Deep breathing,Ignoring/Avoidance,0,4,1,3,3,4,3,1,3,3,3,1,1
+S142,2,Exams,Music/Relaxation|Talking to someone|Gaming/Entertainment,Music/Relaxation,2,4,1,3,3,4,4,1,4,4,4,1,0
+S142,4,Homework,Sleeping|Music/Relaxation,Sleeping,0,3,1,4,2,3,4,1,4,4,4,0,1
+S142,6,Time pressure,Music/Relaxation|Gaming/Entertainment,Music/Relaxation,2,3,1,2,4,3,3,1,4,4,3,1,1
+S142,8,Homework,Gaming/Entertainment|Talking to someone,Gaming/Entertainment,2,3,1,4,3,4,4,1,4,4,5,1,1
+S142,10,Homework,Music/Relaxation|Exercise/Sports,Music/Relaxation,2,3,1,2,4,3,4,1,3,4,3,1,1
+S142,12,Homework,Exercise/Sports|Talking to someone,Exercise/Sports,2,3,1,3,3,3,4,1,4,3,4,1,1
+S143,2,Teachers,Sleeping|Talking to someone,Sleeping,2,3,1,1,4,3,3,0,2,2,3,1,0
+S143,4,Friends,Ignoring/Avoidance|Music/Relaxation,Ignoring/Avoidance,0,1,0,3,3,3,3,0,3,3,4,0,0
+S143,6,Time pressure,Music/Relaxation|Gaming/Entertainment,Music/Relaxation,1,3,1,3,3,4,2,0,3,3,4,0,0
+S143,8,Exams,Ignoring/Avoidance|Exercise/Sports|Gaming/Entertainment,Ignoring/Avoidance,2,3,1,3,3,3,3,1,3,5,3,1,0
+S143,10,Family,Gaming/Entertainment|Sleeping,Gaming/Entertainment,1,2,1,4,3,3,3,1,3,4,3,1,1
+S144,4,Exams,Music/Relaxation|Ignoring/Avoidance|Sleeping,Music/Relaxation,2,4,1,4,2,4,3,1,4,3,4,1,0
+S144,6,Exams,Music/Relaxation,Music/Relaxation,1,4,1,4,3,4,3,1,4,3,3,0,1
+S144,8,Exams,Ignoring/Avoidance|Exercise/Sports,Ignoring/Avoidance,0,3,1,4,2,4,4,1,3,3,5,1,1
+S144,10,Exams,Exercise/Sports|Talking to someone|Ignoring/Avoidance,Exercise/Sports,2,3,1,4,3,4,3,1,4,3,3,1,1
+S144,12,Exams,Ignoring/Avoidance|Deep breathing,Ignoring/Avoidance,2,4,1,4,2,4,3,1,4,3,4,1,1
+S145,2,Teachers,Ignoring/Avoidance|Deep breathing|Gaming/Entertainment,Ignoring/Avoidance,1,2,1,4,2,4,4,1,3,5,3,1,1
+S145,4,Family,Talking to someone,Talking to someone,2,2,1,2,4,4,3,1,3,5,3,1,0
+S145,6,Homework,Ignoring/Avoidance|Music/Relaxation|Exercise/Sports,Ignoring/Avoidance,1,2,1,3,3,4,4,1,3,4,4,1,1
+S145,8,Exams,Ignoring/Avoidance|Sleeping|Gaming/Entertainment,Ignoring/Avoidance,0,2,1,3,3,3,3,1,3,5,4,0,1
+S145,10,Friends,Talking to someone|Ignoring/Avoidance,Talking to someone,1,3,1,4,3,3,4,1,3,4,4,1,0
+S145,12,Homework,Ignoring/Avoidance|Sleeping,Ignoring/Avoidance,1,2,1,2,4,3,3,1,4,5,4,1,1
+S146,2,Homework,Gaming/Entertainment|Talking to someone,Gaming/Entertainment,0,3,1,4,3,4,3,1,3,3,3,0,1
+S146,4,Exams,Music/Relaxation|Exercise/Sports|Ignoring/Avoidance,Music/Relaxation,2,4,1,4,3,4,3,1,3,4,3,0,1
+S146,6,Teachers,Gaming/Entertainment|Talking to someone,Gaming/Entertainment,1,3,1,3,3,3,3,1,4,4,4,1,1
+S146,8,Homework,Gaming/Entertainment|Sleeping,Gaming/Entertainment,2,4,1,3,3,4,3,1,4,3,4,1,1
+S146,10,Teachers,Ignoring/Avoidance|Deep breathing,Ignoring/Avoidance,2,4,1,3,3,4,3,1,3,3,4,1,0
+S146,12,Exams,Ignoring/Avoidance,Ignoring/Avoidance,1,5,1,3,3,4,3,1,3,3,3,1,0
+S147,2,Exams,Talking to someone,Talking to someone,2,3,1,4,2,4,4,1,4,3,4,0,0
+S147,4,Friends,Music/Relaxation|Ignoring/Avoidance,Music/Relaxation,1,3,1,3,3,3,4,1,4,4,4,0,0
+S147,6,Exams,Exercise/Sports|Gaming/Entertainment|Journaling,Exercise/Sports,2,3,1,4,2,4,4,1,3,4,4,1,1
+S147,8,Exams,Ignoring/Avoidance,Ignoring/Avoidance,0,3,1,4,3,3,3,1,3,3,3,0,0
+S147,10,Exams,Talking to someone|Deep breathing|Music/Relaxation,Talking to someone,2,3,1,4,2,4,4,1,4,4,4,0,1
+S147,12,Time pressure,Ignoring/Avoidance|Talking to someone,Ignoring/Avoidance,1,3,1,4,3,4,3,1,4,3,4,1,1
+S148,2,Exams,Exercise/Sports|Talking to someone|Music/Relaxation,Exercise/Sports,2,3,0,2,4,3,2,1,4,3,3,1,1
+S148,4,Exams,Music/Relaxation|Talking to someone,Music/Relaxation,2,4,1,3,3,3,3,1,3,4,3,1,1
+S148,8,Exams,Music/Relaxation|Talking to someone,Music/Relaxation,2,4,1,2,4,3,2,1,3,4,2,1,1
+S148,10,Time pressure,Talking to someone|Music/Relaxation,Talking to someone,2,5,1,3,3,4,3,1,3,4,3,1,1
+S148,12,Family,Deep breathing|Talking to someone,Deep breathing,2,3,1,4,3,4,3,1,3,2,3,1,1
+S149,2,Friends,Gaming/Entertainment|Music/Relaxation,Gaming/Entertainment,1,4,1,4,2,4,4,1,4,3,4,1,1
+S149,4,Exams,Ignoring/Avoidance|Gaming/Entertainment,Ignoring/Avoidance,1,4,1,4,3,4,4,1,4,3,4,1,1
+S149,6,Exams,Exercise/Sports|Journaling,Exercise/Sports,2,4,1,4,3,5,4,1,5,3,4,1,1
+S149,8,Family,Gaming/Entertainment|Exercise/Sports|Ignoring/Avoidance,Gaming/Entertainment,0,3,1,4,2,5,4,1,5,4,4,0,1
+S150,4,Teachers,Exercise/Sports,Exercise/Sports,2,3,0,2,4,3,2,0,3,3,3,1,0
+S150,8,Friends,Exercise/Sports|Deep breathing,Exercise/Sports,1,3,1,4,3,3,4,1,3,4,3,1,1
+S150,10,Exams,Gaming/Entertainment|Talking to someone,Gaming/Entertainment,1,3,1,4,3,4,4,1,4,4,4,0,1
+S151,2,Friends,Music/Relaxation,Music/Relaxation,2,4,1,3,3,3,3,1,3,3,2,1,0
+S151,4,Exams,Ignoring/Avoidance|Journaling|Deep breathing,Ignoring/Avoidance,2,5,1,3,3,4,1,1,3,3,3,1,1
+S151,6,Homework,Journaling,Journaling,2,4,1,3,3,3,3,1,3,3,2,1,1
+S151,8,Exams,Music/Relaxation|Talking to someone,Music/Relaxation,0,4,0,3,3,4,3,0,3,3,4,0,0
+S151,10,Time pressure,Deep breathing|Gaming/Entertainment|Talking to someone,Deep breathing,2,4,0,3,3,4,2,0,3,4,4,0,0
+S151,12,Homework,Talking to someone|Sleeping|Music/Relaxation,Talking to someone,1,4,1,2,3,3,3,1,3,4,3,0,1
+S152,4,Family,Ignoring/Avoidance|Sleeping,Ignoring/Avoidance,1,4,1,2,4,3,2,1,4,4,2,0,1
+S152,6,Exams,Ignoring/Avoidance|Deep breathing,Ignoring/Avoidance,0,5,1,4,3,4,4,1,4,4,3,0,0
+S152,8,Homework,Talking to someone|Ignoring/Avoidance|Music/Relaxation,Talking to someone,2,4,1,2,4,4,3,1,3,4,3,1,1
+S152,10,Time pressure,Deep breathing,Deep breathing,1,5,1,5,3,4,3,1,4,3,4,1,1
+S152,12,Homework,Ignoring/Avoidance|Gaming/Entertainment,Ignoring/Avoidance,0,4,1,4,3,4,4,1,3,3,3,0,1
+S153,8,Friends,Journaling|Deep breathing,Journaling,2,4,1,3,3,4,3,0,3,2,3,1,1
+S154,4,Family,Ignoring/Avoidance,Ignoring/Avoidance,0,5,1,3,3,4,3,1,4,4,3,0,1
+S154,6,Exams,Deep breathing|Gaming/Entertainment,Deep breathing,2,4,1,3,3,3,3,1,3,3,3,0,1
+S154,8,Teachers,Talking to someone|Music/Relaxation|Deep breathing,Talking to someone,2,4,1,4,2,4,3,1,4,3,4,1,1
+S154,10,Teachers,Music/Relaxation,Music/Relaxation,1,5,1,3,3,4,3,1,3,3,3,0,0
+S154,12,Time pressure,Deep breathing|Talking to someone|Ignoring/Avoidance,Deep breathing,1,4,1,2,4,4,2,0,3,3,3,1,1
+S155,4,Exams,Music/Relaxation|Journaling|Talking to someone,Music/Relaxation,2,3,1,4,2,4,5,1,4,3,4,1,0
+S155,6,Teachers,Ignoring/Avoidance|Gaming/Entertainment,Ignoring/Avoidance,0,3,1,3,3,4,4,1,4,4,4,0,0
+S155,8,Time pressure,Sleeping|Ignoring/Avoidance,Sleeping,2,3,1,3,2,4,3,1,3,4,4,1,1
+S155,10,Exams,Exercise/Sports|Deep breathing,Exercise/Sports,1,2,1,5,2,4,5,1,3,5,5,1,1
+S155,12,Exams,Ignoring/Avoidance|Journaling|Gaming/Entertainment,Ignoring/Avoidance,0,3,1,4,2,4,4,1,4,3,4,0,1
+S156,2,Exams,Gaming/Entertainment|Talking to someone,Gaming/Entertainment,0,4,1,4,3,4,3,1,4,3,3,0,1
+S156,4,Family,Ignoring/Avoidance|Exercise/Sports|Music/Relaxation,Ignoring/Avoidance,1,4,1,2,4,4,2,1,4,3,3,1,0
+S156,6,Time pressure,Gaming/Entertainment,Gaming/Entertainment,2,5,1,2,4,3,3,1,4,4,4,1,1
+S156,8,Teachers,Music/Relaxation|Talking to someone,Music/Relaxation,2,4,1,2,4,4,2,1,4,3,4,1,1
+S156,10,Homework,Journaling|Gaming/Entertainment,Journaling,2,4,1,3,3,4,3,1,4,3,3,0,1
+S156,12,Exams,Gaming/Entertainment|Ignoring/Avoidance,Gaming/Entertainment,0,4,1,3,3,4,3,1,4,4,4,0,0
+S157,4,Family,Talking to someone|Ignoring/Avoidance,Talking to someone,0,4,1,4,3,4,4,1,4,3,3,0,1
+S157,6,Exams,Sleeping|Music/Relaxation,Sleeping,2,4,1,4,2,4,3,1,3,2,3,1,1
+S157,8,Exams,Ignoring/Avoidance|Gaming/Entertainment,Ignoring/Avoidance,2,4,1,2,4,4,3,1,4,4,4,1,0
+S157,10,Homework,Gaming/Entertainment|Ignoring/Avoidance,Gaming/Entertainment,0,4,1,3,3,4,3,1,4,3,4,0,1
+S157,12,Homework,Deep breathing|Exercise/Sports|Sleeping,Deep breathing,2,4,1,4,2,4,3,1,4,3,4,1,0
+S158,2,Exams,Ignoring/Avoidance|Sleeping,Ignoring/Avoidance,0,3,1,4,2,4,4,1,4,4,5,0,0
+S158,4,Homework,Ignoring/Avoidance|Gaming/Entertainment,Ignoring/Avoidance,0,2,1,4,2,4,5,1,4,3,4,0,1
+S158,6,Time pressure,Ignoring/Avoidance|Music/Relaxation,Ignoring/Avoidance,1,3,1,5,2,4,5,1,5,4,4,1,0
+S158,8,Homework,Exercise/Sports|Ignoring/Avoidance|Music/Relaxation,Exercise/Sports,2,3,1,5,2,4,5,1,4,3,5,1,1
+S158,10,Teachers,Gaming/Entertainment|Deep breathing|Exercise/Sports,Gaming/Entertainment,2,3,1,4,2,4,4,1,4,5,4,1,1
+S158,12,Family,Music/Relaxation|Ignoring/Avoidance,Music/Relaxation,2,3,1,5,2,5,4,1,4,3,4,0,1
+S159,2,Homework,Talking to someone|Music/Relaxation,Talking to someone,2,4,1,3,3,4,3,1,3,4,4,1,1
+S159,4,Teachers,Ignoring/Avoidance,Ignoring/Avoidance,0,4,1,4,3,4,3,1,4,4,3,1,1
+S159,6,Homework,Music/Relaxation,Music/Relaxation,1,3,1,4,3,4,3,1,4,3,4,1,1
+S159,8,Friends,Gaming/Entertainment|Music/Relaxation,Gaming/Entertainment,2,4,1,3,3,3,3,1,3,4,4,0,0
+S159,10,Friends,Talking to someone,Talking to someone,1,5,1,4,2,4,3,1,3,4,3,1,1
+S159,12,Time pressure,Music/Relaxation,Music/Relaxation,2,4,1,4,3,5,4,1,4,3,4,1,1
+S160,2,Exams,Ignoring/Avoidance|Music/Relaxation,Ignoring/Avoidance,0,4,1,4,3,4,3,1,3,4,4,0,1
+S160,4,Teachers,Ignoring/Avoidance|Music/Relaxation|Exercise/Sports,Ignoring/Avoidance,0,4,1,2,4,3,3,1,3,3,4,1,1
+S160,8,Friends,Gaming/Entertainment,Gaming/Entertainment,1,3,1,4,3,3,4,1,4,3,3,1,1
+S160,10,Exams,Ignoring/Avoidance|Music/Relaxation,Ignoring/Avoidance,1,3,1,2,4,4,3,1,3,4,3,0,1
+S160,12,Teachers,Ignoring/Avoidance|Exercise/Sports,Ignoring/Avoidance,1,4,0,3,3,4,3,0,3,4,3,0,0
+S161,4,Exams,Journaling,Journaling,2,4,1,3,3,3,2,1,3,4,3,0,1
+S161,6,Exams,Talking to someone,Talking to someone,1,4,0,2,4,3,2,0,2,4,3,0,0
+S161,8,Homework,Sleeping|Journaling,Sleeping,0,4,0,3,3,3,3,1,2,5,3,0,1
+S161,10,Time pressure,Deep breathing|Talking to someone,Deep breathing,1,3,1,2,4,3,3,1,2,4,3,0,1
+S161,12,Exams,Music/Relaxation,Music/Relaxation,2,4,0,4,3,2,3,1,3,4,3,1,1
+S162,2,Homework,Journaling|Sleeping|Deep breathing,Journaling,1,3,1,2,4,3,3,1,3,3,3,1,1
+S162,4,Exams,Talking to someone|Journaling,Talking to someone,1,3,1,3,3,3,3,1,4,4,3,1,1
+S162,6,Exams,Music/Relaxation|Deep breathing,Music/Relaxation,2,4,0,3,3,4,3,0,3,3,3,1,0
+S162,8,Exams,Music/Relaxation,Music/Relaxation,1,3,1,4,3,4,3,1,3,3,3,0,1
+S162,10,Friends,Music/Relaxation|Gaming/Entertainment,Music/Relaxation,2,3,1,3,2,3,4,1,3,3,4,1,1
+S162,12,Exams,Journaling|Talking to someone|Deep breathing,Journaling,2,4,1,3,3,3,3,1,3,3,3,1,0
+S163,4,Time pressure,Sleeping|Deep breathing|Gaming/Entertainment,Sleeping,0,5,1,3,3,4,3,1,4,3,3,0,1
+S163,6,Homework,Exercise/Sports,Exercise/Sports,2,5,0,3,2,4,4,1,3,2,3,1,1
+S163,8,Time pressure,Talking to someone|Sleeping|Journaling,Talking to someone,2,4,1,3,3,4,3,1,4,3,4,1,0
+S163,10,Friends,Deep breathing|Talking to someone,Deep breathing,1,4,1,4,3,4,3,1,4,3,3,1,1
+S163,12,Homework,Deep breathing,Deep breathing,2,5,1,4,2,4,3,1,3,2,3,1,0
+S164,4,Time pressure,Music/Relaxation|Deep breathing,Music/Relaxation,2,4,1,3,2,4,3,1,4,3,4,1,1
+S164,6,Exams,Music/Relaxation|Exercise/Sports,Music/Relaxation,2,4,1,4,3,4,4,1,3,3,4,1,1
+S164,10,Homework,Music/Relaxation|Talking to someone|Deep breathing,Music/Relaxation,1,3,1,4,3,4,4,1,4,3,4,1,0
+S164,12,Teachers,Sleeping,Sleeping,1,4,1,4,3,4,3,1,4,3,4,0,1
+S165,2,Exams,Ignoring/Avoidance,Ignoring/Avoidance,1,2,1,3,3,4,3,1,3,3,5,1,1
+S165,6,Exams,Talking to someone,Talking to someone,2,4,1,3,3,3,4,0,4,3,4,1,0
+S165,8,Time pressure,Exercise/Sports|Music/Relaxation,Exercise/Sports,2,3,1,4,3,4,4,1,4,2,4,0,1
+S165,10,Homework,Talking to someone|Ignoring/Avoidance,Talking to someone,1,3,1,4,3,4,3,1,4,3,4,1,0
+S165,12,Exams,Music/Relaxation|Gaming/Entertainment|Ignoring/Avoidance,Music/Relaxation,1,4,1,4,3,4,4,1,4,3,4,1,0
+S166,2,Teachers,Exercise/Sports|Talking to someone|Sleeping,Exercise/Sports,2,4,1,3,4,4,2,1,3,2,3,1,0
+S166,4,Friends,Gaming/Entertainment,Gaming/Entertainment,1,4,1,3,3,3,2,1,3,3,3,0,1
+S166,6,Homework,Music/Relaxation|Exercise/Sports,Music/Relaxation,2,5,0,2,4,3,2,1,3,2,3,1,1
+S166,8,Friends,Ignoring/Avoidance,Ignoring/Avoidance,2,4,0,3,3,3,2,1,3,2,2,0,1
+S166,10,Family,Gaming/Entertainment|Music/Relaxation|Ignoring/Avoidance,Gaming/Entertainment,1,4,1,4,3,4,3,1,2,3,3,1,0
+S166,12,Exams,Exercise/Sports,Exercise/Sports,1,5,0,3,3,2,3,1,3,3,3,1,1
+S167,2,Teachers,Music/Relaxation|Talking to someone,Music/Relaxation,2,3,1,4,3,4,4,1,3,3,4,1,1
+S167,4,Exams,Sleeping|Ignoring/Avoidance,Sleeping,1,3,1,4,2,4,5,1,4,5,4,1,1
+S167,8,Exams,Sleeping|Exercise/Sports|Gaming/Entertainment,Sleeping,1,3,1,4,3,4,4,1,3,4,4,0,1
+S167,10,Time pressure,Ignoring/Avoidance|Gaming/Entertainment|Talking to someone,Ignoring/Avoidance,2,3,1,3,3,4,3,1,3,3,4,0,1
+S168,6,Homework,Sleeping|Gaming/Entertainment,Sleeping,1,4,1,3,3,4,3,1,3,3,4,0,0
+S168,8,Exams,Ignoring/Avoidance|Deep breathing,Ignoring/Avoidance,1,5,1,3,3,4,3,1,3,3,3,0,1
+S168,12,Friends,Gaming/Entertainment|Journaling,Gaming/Entertainment,0,4,1,4,2,4,4,1,4,3,4,0,1
+S169,2,Exams,Exercise/Sports|Ignoring/Avoidance,Exercise/Sports,2,3,1,2,4,3,3,0,3,4,3,1,0
+S169,4,Time pressure,Ignoring/Avoidance,Ignoring/Avoidance,1,3,0,3,3,3,2,1,3,3,4,0,1
+S169,8,Exams,Exercise/Sports|Deep breathing,Exercise/Sports,2,3,0,1,4,3,3,0,3,4,3,1,1
+S169,10,Exams,Gaming/Entertainment|Talking to someone,Gaming/Entertainment,0,3,1,3,3,4,3,1,4,3,4,0,1
+S170,2,Exams,Sleeping|Gaming/Entertainment,Sleeping,2,4,1,4,3,4,3,1,4,3,3,1,0
+S170,4,Family,Talking to someone|Ignoring/Avoidance|Exercise/Sports,Talking to someone,2,3,1,4,2,3,4,1,4,3,3,0,1
+S170,6,Homework,Talking to someone,Talking to someone,2,4,0,4,3,4,4,1,4,3,4,1,1
+S170,8,Exams,Music/Relaxation|Journaling,Music/Relaxation,1,4,1,2,4,4,3,1,3,3,4,1,1
+S170,10,Exams,Exercise/Sports|Ignoring/Avoidance,Exercise/Sports,2,4,1,4,3,5,3,1,4,3,4,1,1
+S170,12,Teachers,Journaling|Ignoring/Avoidance,Journaling,2,4,1,4,2,4,3,1,4,3,3,1,1
+S171,2,Family,Music/Relaxation|Ignoring/Avoidance,Music/Relaxation,2,3,1,4,2,5,4,1,4,4,4,0,1
+S171,4,Time pressure,Talking to someone|Ignoring/Avoidance|Gaming/Entertainment,Talking to someone,2,3,1,4,2,5,4,1,4,3,4,1,0
+S171,6,Teachers,Gaming/Entertainment|Ignoring/Avoidance|Music/Relaxation,Gaming/Entertainment,1,3,1,5,1,4,5,1,4,3,5,1,1
+S171,8,Homework,Music/Relaxation|Gaming/Entertainment,Music/Relaxation,2,3,1,4,2,4,4,1,4,2,5,1,1
+S171,10,Family,Journaling|Deep breathing|Music/Relaxation,Journaling,2,4,1,4,2,4,5,1,5,4,5,1,1
+S171,12,Friends,Talking to someone,Talking to someone,2,3,1,5,2,5,4,1,4,4,4,0,1
+S172,2,Friends,Ignoring/Avoidance,Ignoring/Avoidance,2,4,1,3,3,3,3,1,4,3,4,1,1
+S172,4,Homework,Deep breathing|Gaming/Entertainment|Exercise/Sports,Deep breathing,1,3,1,3,3,4,3,1,3,3,4,1,1
+S172,6,Time pressure,Music/Relaxation|Gaming/Entertainment|Ignoring/Avoidance,Music/Relaxation,2,3,1,4,3,4,4,1,4,3,4,0,1
+S172,8,Family,Journaling|Music/Relaxation|Exercise/Sports,Journaling,1,3,1,4,3,4,4,1,4,4,4,1,1
+S172,10,Homework,Deep breathing,Deep breathing,2,3,1,4,2,4,4,1,4,3,4,1,1
+S172,12,Family,Music/Relaxation|Gaming/Entertainment,Music/Relaxation,2,3,1,4,2,4,4,1,4,3,4,1,1
+S173,2,Exams,Ignoring/Avoidance|Exercise/Sports,Ignoring/Avoidance,1,3,1,3,3,4,3,1,3,4,2,1,1
+S173,4,Friends,Deep breathing|Journaling,Deep breathing,2,3,1,4,3,4,3,1,3,3,3,1,1
+S173,6,Friends,Journaling|Music/Relaxation,Journaling,2,4,0,3,3,3,4,0,2,3,4,0,0
+S173,8,Exams,Talking to someone,Talking to someone,1,3,1,3,3,4,4,1,3,3,3,1,1
+S173,12,Family,Exercise/Sports|Music/Relaxation|Talking to someone,Exercise/Sports,2,3,0,3,3,3,3,1,3,3,3,1,1
+S174,2,Friends,Journaling|Ignoring/Avoidance,Journaling,0,4,0,1,4,3,2,0,3,5,4,0,0
+S174,4,Time pressure,Music/Relaxation|Talking to someone,Music/Relaxation,0,4,1,2,4,4,2,0,3,5,4,1,0
+S174,6,Exams,Exercise/Sports|Ignoring/Avoidance,Exercise/Sports,2,4,1,3,3,3,3,1,3,4,3,1,0
+S174,8,Exams,Talking to someone|Music/Relaxation,Talking to someone,2,3,1,2,4,3,2,1,3,4,3,1,1
+S174,10,Friends,Journaling|Deep breathing,Journaling,2,4,0,3,3,3,4,1,3,4,3,1,1
+S174,12,Friends,Music/Relaxation,Music/Relaxation,2,4,0,2,4,3,3,0,2,4,4,1,1
+S175,2,Time pressure,Exercise/Sports,Exercise/Sports,2,4,1,4,2,4,4,1,4,4,4,1,0
+S175,4,Exams,Deep breathing|Music/Relaxation,Deep breathing,1,3,1,3,2,4,4,1,4,4,4,1,0
+S175,6,Time pressure,Talking to someone|Deep breathing,Talking to someone,2,4,1,4,3,4,4,1,3,4,4,1,0
+S175,8,Exams,Exercise/Sports|Talking to someone,Exercise/Sports,1,3,1,4,3,4,4,1,4,3,4,1,1
+S175,10,Time pressure,Gaming/Entertainment,Gaming/Entertainment,1,4,1,4,3,4,4,1,4,4,4,0,1
+S175,12,Homework,Music/Relaxation|Exercise/Sports,Music/Relaxation,2,5,1,4,2,4,4,1,4,4,4,1,1
+S176,2,Friends,Sleeping|Gaming/Entertainment|Exercise/Sports,Sleeping,2,3,1,3,3,4,4,1,4,3,4,0,1
+S176,4,Exams,Sleeping|Ignoring/Avoidance,Sleeping,1,4,1,3,3,3,4,1,3,3,4,1,1
+S176,6,Exams,Deep breathing|Ignoring/Avoidance,Deep breathing,2,3,1,4,3,4,4,1,4,4,3,0,1
+S176,10,Homework,Gaming/Entertainment|Ignoring/Avoidance,Gaming/Entertainment,1,4,1,4,3,4,4,1,3,3,3,0,0
+S176,12,Exams,Gaming/Entertainment,Gaming/Entertainment,1,3,1,4,3,4,3,1,4,3,4,0,0
+S177,2,Exams,Music/Relaxation|Gaming/Entertainment|Ignoring/Avoidance,Music/Relaxation,2,3,1,4,3,4,3,1,3,3,3,1,0
+S177,4,Time pressure,Deep breathing,Deep breathing,2,3,1,3,3,3,3,1,3,3,3,1,1
+S177,8,Exams,Ignoring/Avoidance|Journaling|Gaming/Entertainment,Ignoring/Avoidance,0,4,0,3,3,3,3,0,3,4,3,0,0
+S177,12,Exams,Music/Relaxation|Gaming/Entertainment|Sleeping,Music/Relaxation,2,4,0,4,3,3,3,0,3,3,3,1,0
+S178,2,Exams,Gaming/Entertainment|Ignoring/Avoidance,Gaming/Entertainment,2,4,1,3,2,4,4,1,4,2,3,1,1
+S178,4,Homework,Journaling,Journaling,1,4,1,4,3,4,3,1,4,3,4,1,1
+S178,6,Exams,Sleeping|Gaming/Entertainment|Ignoring/Avoidance,Sleeping,0,3,1,4,3,4,4,1,4,3,4,0,1
+S178,8,Exams,Music/Relaxation|Ignoring/Avoidance,Music/Relaxation,2,3,1,4,2,4,3,1,4,1,4,0,1
+S178,10,Teachers,Sleeping,Sleeping,1,4,1,4,3,4,3,1,3,3,3,1,1
+S179,2,Exams,Deep breathing|Ignoring/Avoidance,Deep breathing,1,4,0,3,3,3,3,1,3,2,3,1,0
+S179,4,Family,Ignoring/Avoidance,Ignoring/Avoidance,0,3,1,3,3,3,3,1,3,2,3,0,1
+S179,6,Homework,Talking to someone|Ignoring/Avoidance,Talking to someone,2,3,1,2,4,3,2,1,3,3,3,1,1
+S179,8,Friends,Ignoring/Avoidance,Ignoring/Avoidance,1,3,0,3,3,4,2,0,3,2,3,1,0
+S179,10,Time pressure,Talking to someone|Sleeping|Exercise/Sports,Talking to someone,2,2,1,3,3,3,3,1,4,2,4,1,0
+S179,12,Homework,Ignoring/Avoidance|Deep breathing,Ignoring/Avoidance,0,4,0,3,3,4,3,1,4,3,4,0,1
+S180,2,Exams,Gaming/Entertainment|Talking to someone,Gaming/Entertainment,0,3,1,3,3,4,3,1,4,3,4,0,1
+S180,4,Time pressure,Gaming/Entertainment|Ignoring/Avoidance,Gaming/Entertainment,0,4,1,4,3,5,4,1,4,4,4,0,1
+S180,6,Time pressure,Gaming/Entertainment|Sleeping,Gaming/Entertainment,0,4,1,4,3,4,3,1,4,3,4,1,1
+S180,8,Time pressure,Talking to someone|Ignoring/Avoidance,Talking to someone,2,4,1,5,3,4,4,1,4,4,5,1,1
+S180,10,Family,Exercise/Sports|Music/Relaxation|Ignoring/Avoidance,Exercise/Sports,2,4,1,4,3,5,3,1,4,3,4,0,0
+S180,12,Homework,Ignoring/Avoidance,Ignoring/Avoidance,0,3,1,4,3,5,3,1,4,4,5,0,1
+S181,4,Friends,Talking to someone|Deep breathing,Talking to someone,2,4,1,4,3,4,4,1,4,4,3,1,1
+S181,6,Time pressure,Exercise/Sports|Music/Relaxation,Exercise/Sports,0,4,1,4,2,5,3,1,3,3,3,0,0
+S181,8,Time pressure,Music/Relaxation|Talking to someone|Sleeping,Music/Relaxation,1,3,1,3,3,4,4,1,3,3,4,1,1
+S181,10,Exams,Journaling|Exercise/Sports,Journaling,1,3,1,3,3,4,3,1,3,4,3,1,1
+S182,2,Friends,Exercise/Sports,Exercise/Sports,2,3,1,3,3,4,3,1,3,3,3,1,1
+S182,4,Teachers,Music/Relaxation,Music/Relaxation,2,3,1,3,3,4,3,1,4,3,4,1,1
+S182,6,Time pressure,Gaming/Entertainment,Gaming/Entertainment,2,4,1,4,3,4,3,1,4,4,3,1,1
+S182,8,Teachers,Exercise/Sports|Gaming/Entertainment,Exercise/Sports,1,4,1,4,3,4,3,1,3,3,4,1,1
+S182,10,Time pressure,Ignoring/Avoidance|Gaming/Entertainment,Ignoring/Avoidance,1,4,1,4,3,4,4,1,4,3,4,1,1
+S182,12,Teachers,Sleeping|Ignoring/Avoidance,Sleeping,0,4,1,4,2,4,3,1,4,2,4,0,0
+S183,2,Exams,Journaling|Music/Relaxation,Journaling,1,4,1,3,3,4,3,1,5,4,3,1,1
+S183,4,Time pressure,Gaming/Entertainment,Gaming/Entertainment,1,4,1,5,2,4,4,1,5,3,4,0,1
+S183,8,Exams,Deep breathing,Deep breathing,2,3,1,3,3,4,3,1,3,3,4,0,0
+S183,10,Teachers,Ignoring/Avoidance|Journaling,Ignoring/Avoidance,2,3,1,3,4,4,3,1,3,3,3,1,1
+S183,12,Homework,Journaling,Journaling,2,4,1,4,3,4,3,1,5,2,4,1,1
+S184,2,Homework,Talking to someone|Gaming/Entertainment|Exercise/Sports,Talking to someone,2,3,1,3,3,3,3,0,3,4,4,1,0
+S184,6,Homework,Gaming/Entertainment|Music/Relaxation,Gaming/Entertainment,0,3,1,3,3,4,4,1,3,3,4,0,1
+S184,8,Family,Gaming/Entertainment|Talking to someone,Gaming/Entertainment,2,4,1,3,3,4,3,1,3,3,4,0,0
+S184,10,Time pressure,Ignoring/Avoidance|Talking to someone|Gaming/Entertainment,Ignoring/Avoidance,0,2,1,3,2,3,3,1,4,3,4,1,1
+S184,12,Family,Gaming/Entertainment|Ignoring/Avoidance,Gaming/Entertainment,2,4,1,4,3,4,4,1,4,3,4,0,0
+S185,2,Teachers,Sleeping|Deep breathing|Exercise/Sports,Sleeping,2,2,1,3,3,3,3,1,4,3,4,1,0
+S185,4,Exams,Ignoring/Avoidance,Ignoring/Avoidance,1,2,1,4,2,4,4,1,4,4,4,1,1
+S185,6,Homework,Music/Relaxation,Music/Relaxation,1,3,1,5,2,3,4,1,4,3,4,1,1
+S185,8,Friends,Music/Relaxation|Gaming/Entertainment,Music/Relaxation,2,2,1,4,3,4,3,0,3,3,4,1,0
+S185,10,Family,Talking to someone|Ignoring/Avoidance|Exercise/Sports,Talking to someone,0,3,1,3,3,3,3,1,4,4,4,1,1
+S185,12,Family,Music/Relaxation|Ignoring/Avoidance|Gaming/Entertainment,Music/Relaxation,2,2,1,4,2,4,3,1,4,3,4,1,1
+S186,2,Friends,Music/Relaxation,Music/Relaxation,2,5,1,4,2,4,4,1,4,3,5,1,1
+S186,4,Homework,Music/Relaxation,Music/Relaxation,2,5,1,5,2,4,5,1,4,4,4,1,0
+S186,6,Exams,Exercise/Sports,Exercise/Sports,1,4,1,4,2,5,3,1,4,4,4,1,0
+S186,8,Homework,Exercise/Sports|Music/Relaxation,Exercise/Sports,2,4,1,5,2,5,4,1,4,4,4,0,1
+S186,10,Exams,Talking to someone|Music/Relaxation,Talking to someone,2,4,1,5,2,5,4,1,5,5,5,1,1
+S186,12,Family,Music/Relaxation|Talking to someone|Journaling,Music/Relaxation,2,4,1,4,3,3,4,1,4,4,4,1,1
+S187,2,Time pressure,Journaling|Gaming/Entertainment|Ignoring/Avoidance,Journaling,1,4,1,3,2,4,3,1,3,3,4,1,1
+S187,4,Homework,Ignoring/Avoidance|Gaming/Entertainment,Ignoring/Avoidance,0,4,1,4,3,5,3,1,4,3,3,1,1
+S187,6,Time pressure,Journaling|Music/Relaxation|Gaming/Entertainment,Journaling,1,4,1,4,3,4,4,1,4,4,3,1,1
+S187,8,Family,Talking to someone|Gaming/Entertainment|Music/Relaxation,Talking to someone,2,3,1,4,2,4,4,1,4,3,4,1,1
+S187,10,Time pressure,Deep breathing|Talking to someone,Deep breathing,2,4,1,3,3,4,3,1,4,3,3,0,1
+S187,12,Teachers,Music/Relaxation|Gaming/Entertainment,Music/Relaxation,2,4,1,4,2,4,4,1,4,2,3,1,1
+S188,2,Exams,Journaling|Ignoring/Avoidance,Journaling,1,3,1,3,2,3,3,1,4,3,4,0,1
+S188,6,Exams,Deep breathing|Music/Relaxation,Deep breathing,2,2,1,3,3,3,4,1,4,3,3,1,1
+S188,8,Time pressure,Exercise/Sports|Talking to someone|Ignoring/Avoidance,Exercise/Sports,2,4,1,4,2,3,4,1,4,3,4,1,1
+S188,12,Exams,Gaming/Entertainment|Sleeping,Gaming/Entertainment,0,4,1,5,2,4,4,1,4,2,4,0,1
+S189,2,Time pressure,Music/Relaxation|Exercise/Sports,Music/Relaxation,1,4,1,4,3,4,3,1,3,4,3,1,1
+S189,4,Time pressure,Journaling|Exercise/Sports|Sleeping,Journaling,2,3,1,3,3,4,3,1,4,4,4,1,1
+S189,6,Family,Music/Relaxation,Music/Relaxation,1,4,1,3,3,3,4,1,5,4,4,1,1
+S189,10,Family,Deep breathing|Music/Relaxation,Deep breathing,1,3,1,3,3,4,3,1,3,4,3,1,1
+S189,12,Homework,Ignoring/Avoidance|Gaming/Entertainment|Talking to someone,Ignoring/Avoidance,2,4,1,2,4,2,2,1,3,5,4,1,1
+S190,2,Homework,Ignoring/Avoidance,Ignoring/Avoidance,0,3,0,1,4,2,2,0,2,4,2,0,1
+S190,4,Family,Talking to someone,Talking to someone,2,2,0,1,4,2,1,0,3,4,3,1,0
+S190,8,Time pressure,Talking to someone|Sleeping,Talking to someone,1,4,0,1,4,2,3,0,2,4,3,0,0
+S190,10,Exams,Sleeping,Sleeping,0,4,0,3,3,3,3,0,2,3,2,0,0
+S191,2,Time pressure,Deep breathing|Talking to someone|Journaling,Deep breathing,1,5,1,3,4,4,3,1,4,2,4,1,0
+S191,6,Friends,Exercise/Sports,Exercise/Sports,2,4,1,4,3,3,3,1,4,3,3,1,1
+S191,8,Exams,Journaling,Journaling,2,4,1,4,3,4,3,1,4,3,3,1,1
+S191,10,Homework,Deep breathing|Music/Relaxation,Deep breathing,2,4,1,5,3,4,4,1,4,3,4,0,1
+S192,2,Family,Talking to someone|Exercise/Sports,Talking to someone,2,4,1,4,3,4,4,1,3,3,3,1,0
+S192,4,Exams,Music/Relaxation|Exercise/Sports,Music/Relaxation,1,3,1,4,3,4,3,1,4,2,3,1,1
+S192,6,Family,Sleeping|Exercise/Sports,Sleeping,1,4,1,3,3,4,3,1,3,3,3,0,1
+S192,8,Homework,Music/Relaxation|Gaming/Entertainment,Music/Relaxation,2,4,1,4,3,4,3,1,3,3,4,1,1
+S192,10,Exams,Deep breathing,Deep breathing,1,4,1,3,3,4,4,1,4,3,4,1,1
+S193,2,Homework,Music/Relaxation,Music/Relaxation,2,4,1,3,3,4,2,1,3,4,4,1,1
+S193,4,Time pressure,Exercise/Sports|Journaling|Gaming/Entertainment,Exercise/Sports,2,4,0,2,4,3,3,0,3,4,3,1,1
+S193,6,Exams,Talking to someone,Talking to someone,0,4,0,3,3,4,3,0,3,4,3,0,0
+S193,10,Exams,Music/Relaxation|Exercise/Sports,Music/Relaxation,2,4,1,3,3,4,3,1,3,4,4,0,1
+S193,12,Family,Journaling|Talking to someone,Journaling,2,3,1,3,3,4,4,1,3,4,3,1,0
+S194,4,Homework,Sleeping|Talking to someone,Sleeping,1,5,1,4,3,4,4,1,4,3,3,0,1
+S194,6,Time pressure,Talking to someone,Talking to someone,2,5,1,3,4,4,2,1,4,3,3,1,0
+S194,12,Homework,Exercise/Sports|Talking to someone,Exercise/Sports,2,4,1,2,3,4,2,1,3,3,3,1,0
+S195,2,Homework,Gaming/Entertainment|Music/Relaxation|Exercise/Sports,Gaming/Entertainment,0,4,0,1,4,3,2,0,2,3,3,0,0
+S195,4,Homework,Exercise/Sports|Music/Relaxation,Exercise/Sports,0,4,0,3,3,3,3,0,3,4,3,0,0
+S195,6,Time pressure,Music/Relaxation|Sleeping,Music/Relaxation,2,3,0,1,4,3,1,0,3,4,3,1,0
+S195,8,Friends,Deep breathing|Exercise/Sports,Deep breathing,2,5,0,1,4,3,1,0,3,4,3,1,0
+S195,10,Homework,Deep breathing|Journaling,Deep breathing,1,4,0,2,4,3,2,0,3,3,2,1,0
+S195,12,Exams,Sleeping|Music/Relaxation,Sleeping,1,4,0,2,4,3,2,0,2,2,2,1,0
+S196,2,Homework,Gaming/Entertainment,Gaming/Entertainment,0,4,1,4,3,4,4,1,3,3,3,0,1
+S196,4,Homework,Talking to someone,Talking to someone,1,3,1,3,3,4,3,1,3,4,4,1,1
+S196,6,Friends,Exercise/Sports,Exercise/Sports,2,2,1,3,3,3,3,1,3,2,4,0,1
+S196,8,Homework,Music/Relaxation|Gaming/Entertainment|Deep breathing,Music/Relaxation,1,3,1,4,3,3,4,1,2,3,3,1,1
+S196,10,Family,Music/Relaxation,Music/Relaxation,1,3,1,2,3,3,4,1,3,3,3,1,1
+S196,12,Exams,Deep breathing,Deep breathing,2,4,1,3,3,4,3,1,3,3,3,1,0
+S197,2,Homework,Journaling|Music/Relaxation,Journaling,1,5,1,4,2,4,3,1,5,3,4,1,0
+S197,4,Friends,Deep breathing,Deep breathing,2,5,1,5,2,3,4,1,4,3,3,1,0
+S197,6,Family,Music/Relaxation|Ignoring/Avoidance,Music/Relaxation,2,3,1,4,2,4,3,1,4,3,4,1,1
+S197,10,Exams,Exercise/Sports|Talking to someone|Deep breathing,Exercise/Sports,2,4,1,4,2,4,3,1,4,4,3,1,1
+S197,12,Exams,Gaming/Entertainment|Talking to someone,Gaming/Entertainment,2,5,1,4,2,4,4,1,4,4,4,1,0
+S198,2,Exams,Music/Relaxation|Journaling,Music/Relaxation,2,5,1,2,4,3,2,1,3,3,3,0,1
+S198,4,Homework,Gaming/Entertainment|Exercise/Sports|Music/Relaxation,Gaming/Entertainment,2,3,1,2,5,3,2,1,3,4,2,1,1
+S198,6,Time pressure,Deep breathing|Journaling,Deep breathing,2,4,1,3,3,4,2,1,3,4,3,1,1
+S198,8,Family,Exercise/Sports|Music/Relaxation|Deep breathing,Exercise/Sports,1,4,0,2,4,3,2,0,3,3,3,1,0
+S199,2,Homework,Sleeping|Talking to someone,Sleeping,1,2,0,3,3,3,3,0,3,2,4,0,0
+S199,4,Friends,Talking to someone|Exercise/Sports,Talking to someone,1,2,0,2,3,3,3,0,2,3,3,1,0
+S199,6,Exams,Gaming/Entertainment|Sleeping,Gaming/Entertainment,2,3,1,3,3,3,3,1,3,3,3,0,1
+S199,8,Homework,Ignoring/Avoidance|Music/Relaxation,Ignoring/Avoidance,1,2,1,2,3,3,3,1,2,4,3,1,1
+S199,10,Time pressure,Music/Relaxation,Music/Relaxation,1,2,1,3,2,3,3,1,3,4,4,0,0
+S199,12,Time pressure,Talking to someone|Gaming/Entertainment,Talking to someone,0,2,1,2,3,3,3,0,3,3,3,0,0
+S200,2,Teachers,Gaming/Entertainment,Gaming/Entertainment,2,3,1,4,3,4,3,1,3,4,3,1,1
+S200,6,Time pressure,Gaming/Entertainment|Sleeping|Exercise/Sports,Gaming/Entertainment,1,3,1,3,3,3,3,1,3,4,3,1,0
+S200,8,Time pressure,Gaming/Entertainment|Deep breathing,Gaming/Entertainment,1,4,1,4,3,3,3,1,3,5,3,1,0
+S200,10,Exams,Music/Relaxation|Exercise/Sports,Music/Relaxation,2,4,1,4,3,4,3,1,4,4,4,0,1
+S200,12,Teachers,Journaling|Deep breathing,Journaling,1,4,0,1,4,4,2,0,3,4,3,0,1
