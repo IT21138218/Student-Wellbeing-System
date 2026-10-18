@@ -1,0 +1,32 @@
+# Version floors, not exact pins, on purpose: exact old pins have no
+# prebuilt wheel for newer Python (3.13/3.14), which forces pip to compile
+# from source (Rust for pydantic-core, C/C++ for scikit-learn) and fail on
+# any machine without that toolchain installed. `>=` lets pip pick the
+# newest compatible wheel for whatever Python each teammate has.
+fastapi>=0.115.6
+uvicorn[standard]>=0.32.1
+motor>=3.6.0
+beanie>=1.27.0
+pydantic[email]>=2.10.3
+pydantic-settings>=2.7.0
+python-dotenv>=1.0.1
+python-jose[cryptography]>=3.3.0
+bcrypt>=4.1.0
+python-multipart>=0.0.19
+
+google-generativeai>=0.8.0
+pypdf>=5.0.0
+
+# ML
+scikit-learn>=1.6.0
+pandas>=2.2.3
+numpy>=2.2.1
+imbalanced-learn>=0.13.0
+joblib>=1.4.2
+xgboost>=2.0.0
+lightgbm>=4.0.0
+scipy>=1.12.0
+
+# Dev / test
+pytest>=8.3.4
+httpx>=0.28.1
